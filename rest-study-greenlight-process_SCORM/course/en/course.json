@@ -1,0 +1,217 @@
+{
+  "title": "REST Study Greenlight Process",
+  "displayTitle": "REST Study Greenlight Process",
+  "body": "<p>Welcome to the guide for the&nbsp;<strong>Runny Ear Study (REST)</strong>&nbsp;greenlight process.</p><p>The guide is here to help you understand what paperwork is required, how to fill it in and how to submit it to your trial centre, to help you get open and recruiting as quickly and easily as possible.</p>",
+  "description": "",
+  "_latestTrackingId": 14,
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Submit"
+    },
+    "_reset": {
+      "buttonText": "Reset",
+      "ariaLabel": "Reset"
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Correct answer",
+      "ariaLabel": "Show correct answer"
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "My answer",
+      "ariaLabel": "Hide correct answer"
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": "Show feedback"
+    },
+    "remainingAttemptsText": "attempts remaining",
+    "remainingAttemptText": "final attempt",
+    "disabledAriaLabel": "This button is disabled at the moment"
+  },
+  "_classes": "",
+  "_lockType": "",
+  "_id": "course",
+  "_start": {
+    "_isEnabled": false,
+    "_startIds": [],
+    "_force": false,
+    "_isMenuDisabled": false
+  },
+  "_globals": {
+    "_accessibility": {
+      "skipNavigationText": "Skip navigation",
+      "_ariaLabels": {
+        "answeredIncorrectly": "You answered incorrectly",
+        "answeredCorrectly": "You answered correctly",
+        "selectedAnswer": "selected",
+        "unselectedAnswer": "not selected",
+        "skipNavigation": "Skip Navigation",
+        "previous": "Back",
+        "navigationDrawer": "Open course resources.",
+        "close": "Close",
+        "closeDrawer": "Close Drawer",
+        "closeResources": "Close resources",
+        "drawer": "Top of side drawer",
+        "closePopup": "Close popup",
+        "next": "Next",
+        "done": "Done",
+        "complete": "Completed",
+        "incomplete": "Incomplete",
+        "incorrect": "Incorrect",
+        "correct": "Correct",
+        "locked": "Locked",
+        "visited": "Visited"
+      }
+    },
+    "_components": {
+      "_text": {
+        "ariaRegion": ""
+      },
+      "_hotgraphic": {
+        "ariaRegion": "Image with selectable areas. Select each button to show more information.",
+        "popupPagination": "{{itemNumber}} / {{totalItems}}"
+      },
+      "_graphic": {
+        "ariaRegion": ""
+      }
+    },
+    "_extensions": {
+      "_trickle": {
+        "incompleteContent": "There is incomplete content above. You must complete this before you can proceed through the course."
+      },
+      "_pageLevelProgress": {
+        "pageLevelProgress": "Page sections",
+        "pageLevelProgressIndicatorBar": "Page progress. Use this to listen to the list of regions in this topic and whether they're completed. You can jump directly to any that are incomplete or which sound particularly interesting. {{percentageComplete}}%",
+        "pageLevelProgressMenuBar": "Page completion {{percentageComplete}}%",
+        "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
+        "optionalContent": "Optional content"
+      },
+      "_resources": {
+        "resources": "Additional resources."
+      },
+      "_languagePicker": {
+        "navigationBarLabel": "Select course language",
+        "languageSelector": "Language selector"
+      }
+    }
+  },
+  "_type": "course",
+  "themeVariables": {
+    "_colors": {
+      "primary-color": "#c03038",
+      "primary-color-inverted": "#ffffff",
+      "secondary-color": "#4b4e4f",
+      "secondary-color-inverted": "#ffffff",
+      "tertiary-color": "#ffffff",
+      "tertiary-color-inverted": "#20b2aa",
+      "quaternary-color": "#37474f",
+      "quaternary-color-inverted": "#ffffff",
+      "foreground-color": "#4b4e4f",
+      "background-color": "#ffffff",
+      "foreground-color-inverted": "#ffffff",
+      "background-color-inverted": "#ffffff",
+      "validation-error": "#f26c4f",
+      "validation-success": "#82ca9c",
+      "disabled-color": "#727272",
+      "disabled-color-inverted": "#cccccc"
+    }
+  },
+  "_assessment": {
+    "_isPercentageBased": true,
+    "_scoreToPass": 60
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": true,
+    "_isCompletionIndicatorEnabled": false,
+    "_isShownInNavigationBar": true
+  },
+  "_resources": {
+    "_isEnabled": true,
+    "_drawerOrder": 0,
+    "title": "Resources",
+    "description": "Click here to view resources for this course",
+    "_filterButtons": {
+      "all": "All",
+      "document": "Documents",
+      "media": "Media",
+      "link": "Links"
+    },
+    "_filterAria": {
+      "allAria": "View all resources",
+      "documentAria": "View document resources",
+      "mediaAria": "View media resources",
+      "linkAria": "View resource links"
+    },
+    "_resourcesItems": [
+      {
+        "_type": "document",
+        "_forceDownload": true,
+        "title": "Organisation of Information Document",
+        "filename": "REST-Organisation_of_Information",
+        "description": "Click here to download a copy of the the Organisation of Information Document",
+        "_link": "#"
+      },
+      {
+        "_type": "document",
+        "_forceDownload": true,
+        "title": "Site Agreement",
+        "filename": "REST-Site_Agreement",
+        "description": "Click here to download a copy of the Site Agreement.",
+        "_link": "#"
+      },
+      {
+        "_type": "document",
+        "_forceDownload": false,
+        "title": "Delegation Log",
+        "filename": "REST-Delegation_Log",
+        "description": "Click here to download a copy of the Delegation Log.",
+        "_link": "#"
+      },
+      {
+        "_type": "document",
+        "_forceDownload": false,
+        "title": "CV Template",
+        "filename": "CV_Template",
+        "description": "CV template ",
+        "_link": "#"
+      },
+      {
+        "_type": "link",
+        "_forceDownload": false,
+        "title": "REST Website",
+        "filename": "",
+        "description": "View the REST study website for more information by clicking here.",
+        "_link": "http://www.isrctn.com/ISRCTN12873692"
+      },
+      {
+        "_type": "link",
+        "_forceDownload": false,
+        "title": "Email your study centre",
+        "filename": "",
+        "description": "Send an email to your study centre by clicking here.",
+        "_link": "mailto:person@bristol.ac.uk"
+      },
+      {
+        "_type": "link",
+        "_forceDownload": false,
+        "title": "Call your study centre",
+        "filename": "",
+        "description": "Call your study centre by click here or by calling [update phone number].",
+        "_link": "tel:07000000000"
+      }
+    ]
+  },
+  "_bookmarking": {
+    "_isEnabled": true,
+    "_level": "page",
+    "_showPrompt": true,
+    "title": "Bookmarking",
+    "body": "Would you like to continue where you left off?",
+    "_buttons": {
+      "yes": "Yes",
+      "no": "No"
+    }
+  }
+}

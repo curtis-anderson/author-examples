@@ -1,0 +1,306 @@
+{
+  "19fd04b081b9436684532ba98468b16db676c63a.jpg": {
+    "title": "19fd04b081b9436684532ba98468b16db676c63a.jpg",
+    "description": "19fd04b081b9436684532ba98468b16db676c63a.jpg",
+    "tags": []
+  },
+  "25093fcc89bd3e0fb39607cb7fd2fc7837fd6d18.mp4": {
+    "title": "25093fcc89bd3e0fb39607cb7fd2fc7837fd6d18.mp4",
+    "description": "25093fcc89bd3e0fb39607cb7fd2fc7837fd6d18.mp4",
+    "tags": []
+  },
+  "179c64399ee8b1b6d24800b14827172dea780ee3.vtt": {
+    "title": "author.vtt",
+    "description": "Closed captions",
+    "tags": []
+  },
+  "729e8b999ffb441364debcb7e4eb703b2354a9f7.jpg": {
+    "title": "c-40.jpg",
+    "description": "c-40.jpg",
+    "tags": []
+  },
+  "94310c7aace8f4ad8abd2cbc17f17bce4dcc26f1.png": {
+    "title": "menu-item.png",
+    "description": "menu-item.png",
+    "tags": []
+  },
+  "d9b1c3c881f31e9db7280e18a448acee40b70988.png": {
+    "title": "full-width.png",
+    "description": "full-width.png",
+    "tags": []
+  },
+  "ddc2a1bff0a87074bd48eff0f5ef22b3aab220d1.png": {
+    "title": "single-width.png",
+    "description": "single-width.png",
+    "tags": []
+  },
+  "6e4671a1ac7113b4ae9c7d6a6078a38c1f9343e4.png": {
+    "title": "004-architectonic.png",
+    "description": "Ancient Rome",
+    "tags": [
+      {
+        "title": "Ancient Rome",
+        "_id": "5e741cc2d9619027ad6a5773"
+      },
+      {
+        "title": "demo",
+        "_id": "5e7379c3d9619027ad6a5767"
+      }
+    ]
+  },
+  "bf5028de289e02d391e83d304885f9521493ef5a.png": {
+    "title": "009-architecture-and-city-3.png",
+    "description": "Classical civilization",
+    "tags": [
+      {
+        "title": "classical",
+        "_id": "5e741cf0d9619027ad6a5775"
+      },
+      {
+        "title": "civilisation",
+        "_id": "5e741cf6d9619027ad6a5777"
+      },
+      {
+        "title": "demo",
+        "_id": "5e7379c3d9619027ad6a5767"
+      }
+    ]
+  },
+  "8e8fde39fd37bd3d10bf2fa3eb96a7bbbbf412c1.png": {
+    "title": "008-architecture-and-city-2.png",
+    "description": "Early British history",
+    "tags": [
+      {
+        "title": "Early",
+        "_id": "5e741d1cd9619027ad6a5779"
+      },
+      {
+        "title": "British",
+        "_id": "5e741d1dd9619027ad6a577a"
+      },
+      {
+        "title": "History",
+        "_id": "5e741d20d9619027ad6a577b"
+      },
+      {
+        "title": "demo",
+        "_id": "5e7379c3d9619027ad6a5767"
+      }
+    ]
+  },
+  "0401460dc1f07d42e1d700253fe53da1fea2919a.png": {
+    "title": "005-architecture-and-city-1.png",
+    "description": "Medieval Europe",
+    "tags": [
+      {
+        "title": "Medieval",
+        "_id": "5e741d46d9619027ad6a577e"
+      },
+      {
+        "title": "europe",
+        "_id": "5e741d49d9619027ad6a577f"
+      },
+      {
+        "title": "demo",
+        "_id": "5e7379c3d9619027ad6a5767"
+      }
+    ]
+  },
+  "4a9f906aa908f2138c0c75aa26260f2724ea59c5.png": {
+    "title": "007-animals.png",
+    "description": "prehistory",
+    "tags": [
+      {
+        "title": "prehistory",
+        "_id": "5e741d70d9619027ad6a5781"
+      },
+      {
+        "title": "demo",
+        "_id": "5e7379c3d9619027ad6a5767"
+      }
+    ]
+  },
+  "a4663bec28c44e5b51247a0b0dcf9ba8708bb6f1.png": {
+    "title": "006-ancient.png",
+    "description": "Ancient egypt",
+    "tags": [
+      {
+        "title": "ancient",
+        "_id": "5e741db7d9619027ad6a5784"
+      },
+      {
+        "title": "egypt",
+        "_id": "5e741dbdd9619027ad6a5786"
+      },
+      {
+        "title": "demo",
+        "_id": "5e7379c3d9619027ad6a5767"
+      }
+    ]
+  },
+  "736d62044b9668c0bb06e03cd2721bd3bdb2f127.png": {
+    "title": "003-architecture-and-city.png",
+    "description": "Pre-colonial America",
+    "tags": [
+      {
+        "title": "america",
+        "_id": "5e741ddfd9619027ad6a5788"
+      },
+      {
+        "title": "demo",
+        "_id": "5e7379c3d9619027ad6a5767"
+      }
+    ]
+  },
+  "abcb155f12f525a3f4018da08c4be6b057f27f6a.png": {
+    "title": "010-management.png",
+    "description": "Space race",
+    "tags": [
+      {
+        "title": "space",
+        "_id": "5e741e0fd9619027ad6a578a"
+      },
+      {
+        "title": "race",
+        "_id": "5e741e11d9619027ad6a578b"
+      },
+      {
+        "title": "demo",
+        "_id": "5e7379c3d9619027ad6a5767"
+      }
+    ]
+  },
+  "9b8747904fbbc604e38b1aea02fcb967df8d1c6b.png": {
+    "title": "002-antique.png",
+    "description": "Vikings",
+    "tags": [
+      {
+        "title": "viking",
+        "_id": "5e741e35d9619027ad6a578d"
+      },
+      {
+        "title": "demo",
+        "_id": "5e7379c3d9619027ad6a5767"
+      }
+    ]
+  },
+  "1e64b51fc744e02cea9624052289ac34d13cdc68.png": {
+    "title": "001-astronomy.png",
+    "description": "world",
+    "tags": [
+      {
+        "title": "world",
+        "_id": "5e741e55d9619027ad6a578f"
+      },
+      {
+        "title": "History",
+        "_id": "5e741d20d9619027ad6a577b"
+      },
+      {
+        "title": "demo",
+        "_id": "5e7379c3d9619027ad6a5767"
+      }
+    ]
+  },
+  "893a0ee58e7bca6d61b5267a0eee6da804e8d0ef.png": {
+    "title": "spears.png",
+    "description": "prehistoric spear",
+    "tags": [
+      {
+        "title": "spear",
+        "_id": "5e741eddd9619027ad6a579b"
+      },
+      {
+        "title": "demo",
+        "_id": "5e7379c3d9619027ad6a5767"
+      }
+    ]
+  },
+  "9c5039ce1cbd44a125a304b59e2ef2020ece59a6.png": {
+    "title": "mammoth.png",
+    "description": "mammoth",
+    "tags": []
+  },
+  "0eeed209c8f7823e438dda1541b83b4132b8ec82.png": {
+    "title": "cave.png",
+    "description": "cave",
+    "tags": [
+      {
+        "title": "cave",
+        "_id": "5e741f75d9619027ad6a57a0"
+      },
+      {
+        "title": "demo",
+        "_id": "5e7379c3d9619027ad6a5767"
+      }
+    ]
+  },
+  "d60c01f9467676ec0418c190a4988b7a0538fe5d.png": {
+    "title": "spindle.png",
+    "description": "spindle",
+    "tags": [
+      {
+        "title": "spindle",
+        "_id": "5e741fb8d9619027ad6a57a3"
+      },
+      {
+        "title": "demo",
+        "_id": "5e7379c3d9619027ad6a5767"
+      }
+    ]
+  },
+  "4829a4b4b069b09c2cc594e557596cee711c2a76.png": {
+    "title": "bear.png",
+    "description": "bear",
+    "tags": [
+      {
+        "title": "bear",
+        "_id": "5e74252dd9619027ad6a57b1"
+      },
+      {
+        "title": "demo",
+        "_id": "5e7379c3d9619027ad6a5767"
+      }
+    ]
+  },
+  "6011edc04d991ea42140c585ee43f6459ce6f9bd.png": {
+    "title": "coelodonta.png",
+    "description": "coelodonta wooly rhino",
+    "tags": [
+      {
+        "title": "coelodonta",
+        "_id": "5e742549d9619027ad6a57b3"
+      },
+      {
+        "title": "rihino",
+        "_id": "5e74254cd9619027ad6a57b4"
+      },
+      {
+        "title": "demo",
+        "_id": "5e7379c3d9619027ad6a5767"
+      }
+    ]
+  },
+  "7aa43f6972245c93b25d356a53dfe34cfd898e33.png": {
+    "title": "smilodon.png",
+    "description": "smilidon sabre tooth tiger",
+    "tags": [
+      {
+        "title": "smilodon",
+        "_id": "5e742569d9619027ad6a57b6"
+      },
+      {
+        "title": "sabre",
+        "_id": "5e74256bd9619027ad6a57b7"
+      },
+      {
+        "title": "tooth",
+        "_id": "5e74256dd9619027ad6a57b8"
+      },
+      {
+        "title": "tiger",
+        "_id": "5e74256ed9619027ad6a57b9"
+      }
+    ]
+  }
+}

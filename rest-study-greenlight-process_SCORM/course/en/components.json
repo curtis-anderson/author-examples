@@ -1,0 +1,821 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Overview",
+    "displayTitle": "Overview",
+    "body": "<p>We know how busy surgery staff are&nbsp;but we are also aware of the importance of research. This short guide aims to facilitate the implementation of the REST Study at your site. We will take you quickly through the greenlight process so you can be open to recruitment as soon as possible.</p><p>The whole process should take no longer than 15 minutes, although obtaining signatures for the delegation log may take slightly longer.</p><p><strong>Please Note:</strong></p><ul><li>CVs should be signed and dated (within 2 years), click the button below to download the template if needed</li><li>GCP certificates should be dated within 3&nbsp;years and are only mandatory for the Primary Investigator (PI). If other members of staff have a current GCP certificate this should also be submitted</li></ul><p>&nbsp;</p><p><a class=\"button\" href=\"course/en/assets/2a575f5b7c5775b7f7d7e2f98c29ef06e828e8f1.docx\" download=\"REST_CV_Template.docx\"><span style=\"color:white\">Download the CV template</span></a></p>",
+    "_id": "5d78b1be2a18cb58227701b4",
+    "_parentId": "5d78b1be2a18cb58227701a6",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "overview-graphic",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d78b1be2a18cb58227701b6",
+    "_parentId": "5d78b1be2a18cb58227701a6",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/0a5069c1ce26aa0be48873cbeba830037118ee0d.png",
+      "small": "course/en/assets/0a5069c1ce26aa0be48873cbeba830037118ee0d.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Start",
+    "displayTitle": "Let's Get Started",
+    "body": "<p>We've put some simplified versions of the documents below.</p><p>You'll notice some pins on the documents which indicate the areas that need to be completed on each form. Selecting each pin will provide&nbsp;an info pop up. In that pop up will be a brief explanation of what needs to go there, with an example.</p><p>An editable version of each form can be downloaded via the link under the title of each document (or they can be found by clicking the 3 lines in the top right hand corner of the screen).</p><p>If you need any assistance please contact your trial centre by emailing&nbsp;<a href=\"mailto:#\">person@bristol.ac.uk</a>&nbsp;or calling&nbsp;<a href=\"tel:01179000000\">0117 9000 000</a>.</p>",
+    "_id": "5d78b1be2a18cb58227701b9",
+    "_parentId": "5d78b1be2a18cb58227701a8",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Please scroll down to begin."
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Site Agreement",
+    "displayTitle": "Site Agreement",
+    "body": "<p><a class=\"button\" href=\"course/en/assets/2736ef57eb2ccdaba2a02e17547737cf3640013b.pdf\" download=\"REST_Site_Agreement_template_v1.1_20180831_finance_signed.pdf\" target=\"_blank\"><span style=\"color:white\">Download the Site Agreement Document</span></a></p><p>Download the Site Agreement</p><p>The site agreement is the legal contract between your site and Bristol University. Please take some time to read it before signing it.</p>",
+    "_id": "5d78b1be2a18cb58227701ba",
+    "_parentId": "5d78b1be2a18cb58227701ac",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select the pins to see the areas you need to complete.",
+    "_setCompletionOn": "allItems",
+    "_graphic": {
+      "src": "course/en/assets/4046f2825125bb7b218ed37ae0ff574aff931aa6.png",
+      "alt": "",
+      "attribution": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "<p><strong>Use the <em>plus</em> symbol below to see more info and the <em>arrow</em> to cycle through the locations in the document.</strong></p>",
+    "_hidePagination": false,
+    "_canCycleThroughPagination": false,
+    "_useGraphicsAsPins": false,
+    "_items": [
+      {
+        "title": "Site Agreement Page 1",
+        "_ariaLevel": 0,
+        "body": "<p>Please fill in the sections highlighted in yellow.&nbsp;</p><p>The date should be written in the format of the following&nbsp;example -&nbsp;28th August 2019.</p><p>Your legally registered address should be written like the example below -</p><p><strong>Joe Bloggs Surgery</strong> registered at Joe Bloggs Lane, Yorkshire, YO2 PL8</p><p>If you have any branch surgeries that will be taking part in the study, then it should be written&nbsp;like the example below -</p><p><strong>Joe Bloggs Surgery</strong> registered at Joe Bloggs Lane, Yorkshire, YO2 PL8 <strong>to include</strong> Branch Bloggs, Branch Lane, YO2 PL9</p>",
+        "strapline": "Site Agreement Page 1",
+        "_graphic": {
+          "src": "course/en/assets/6f34411357f76e80b0db3a5162bbd6d6facfc892.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 28,
+        "_top": 38
+      },
+      {
+        "title": "Site Agreement Page 9",
+        "_ariaLevel": 0,
+        "body": "<p>Please could the Practice Manager or Lead GP/PI please sign, print and date page 9.</p>",
+        "strapline": "Site Agreement Page 9",
+        "_graphic": {
+          "src": "course/en/assets/dc2cc1ca61e1ca191bdb02a416ca2b04777a7536.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 55,
+        "_top": 30
+      }
+    ]
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Delegation Log",
+    "displayTitle": "Delegation Log",
+    "body": "<p><a class=\"button\" href=\"course/en/assets/21435e502dadf15244d2add2e63e3de33dbc70c2.pdf\" download=\"REST_Delegation_log_v.2.0_20190808.pdf\" target=\"_blank\"><span style=\"color:white\">Download the Delegation Log</span></a></p><p>The delegation log is in place to provide a comprehensive list of study staff members and the duties that have been delegated to them by the Principal Investigator (PI). The PI should sign off against each staff member to authorise that they agree with the tasks they have been delegated.</p>",
+    "_id": "5d78b1be2a18cb58227701bf",
+    "_parentId": "5d78b1be2a18cb58227701ae",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select the pins to see what info we need.",
+    "_setCompletionOn": "allItems",
+    "_graphic": {
+      "src": "course/en/assets/7b7a71c3da1f8c49382adcb024ceace34abf842c.png",
+      "alt": "",
+      "attribution": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "<p><strong>Use the <em>plus</em> symbol below to see more info and the <em>arrow</em> to cycle through the locations in the document.</strong></p>",
+    "_hidePagination": false,
+    "_canCycleThroughPagination": false,
+    "_useGraphicsAsPins": false,
+    "_items": [
+      {
+        "title": "Site Name",
+        "_ariaLevel": 0,
+        "body": "<p>Please enter your site name</p>",
+        "strapline": "Site Name",
+        "_graphic": {
+          "src": "course/en/assets/d0aba711b09b0e2811af75a2cd992021ae58ca44.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 6.5,
+        "_top": 5.5
+      },
+      {
+        "title": "Site PI",
+        "_ariaLevel": 0,
+        "body": "<p>Please enter the name of your site PI</p>",
+        "strapline": "Site PI",
+        "_graphic": {
+          "src": "course/en/assets/05d066b2a27703ad6e0baf3f0ec835b0b54e21fd.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 65.25,
+        "_top": 5.5
+      },
+      {
+        "title": "Name",
+        "_ariaLevel": 0,
+        "body": "<p>Please enter your name (first and surname).</p>",
+        "strapline": "Name",
+        "_graphic": {
+          "src": "course/en/assets/1f66294a45df6df2c5cc8f9bffd649fa10c0ee7c.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 11.5,
+        "_top": 9.5
+      },
+      {
+        "title": "Initials",
+        "_ariaLevel": 0,
+        "body": "<p>Please enter your initials</p>",
+        "strapline": "Initials",
+        "_graphic": {
+          "src": "course/en/assets/7a57b48f37ae39f5a73d565c95a53d410faf13f1.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 17.75,
+        "_top": 9.5
+      },
+      {
+        "title": "Role",
+        "_ariaLevel": 0,
+        "body": "<p>Please enter your job title</p>",
+        "strapline": "Role",
+        "_graphic": {
+          "src": "course/en/assets/bbbefc9111dfc191dbb4476d71e9c230b4014d89.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 24,
+        "_top": 9.5
+      },
+      {
+        "title": "Start Date",
+        "_ariaLevel": 0,
+        "body": "<p>Start date. This can be today's date.</p>",
+        "strapline": "Start Date",
+        "_graphic": {
+          "src": "course/en/assets/dd1b9d556a50538e93a5ad401369dc38166c2c44.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 30.75,
+        "_top": 9.5
+      },
+      {
+        "title": "End Date",
+        "_ariaLevel": 0,
+        "body": "<p>If a member of staff stops working on the study, please put an&nbsp;end date here.</p>",
+        "strapline": "End Date",
+        "_graphic": {
+          "src": "course/en/assets/d5b7adb57735bfcc227304742d1f1ecc735b8d66.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 38.3,
+        "_top": 9.5
+      },
+      {
+        "title": "Study Tasks",
+        "_ariaLevel": 0,
+        "body": "<p>Please list all the study tasks you will&nbsp;be undertaking.&nbsp;</p><p>They should be listed separately, i.e. \"A,B,C,D\".</p><p>Please see the Study Task Codes table on the delegation log&nbsp;if you need any guidance over which tasks apply to you.</p>",
+        "strapline": "Study Tasks",
+        "_graphic": {
+          "src": "course/en/assets/40f9a57d8cb18421ec9668bf15ec5fdbcf4c6559.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 46.5,
+        "_top": 9.5
+      },
+      {
+        "title": "Signature of Staff Member",
+        "_ariaLevel": 0,
+        "body": "<p>Please sign your name here.</p>",
+        "strapline": "Signature of Staff Member",
+        "_graphic": {
+          "src": "course/en/assets/0bdecc8bd8d3b90ebe7b4e6fcc1ecc4e3aa9ae22.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 56.5,
+        "_top": 9.5
+      },
+      {
+        "title": "Signature of PI",
+        "_ariaLevel": 0,
+        "body": "<p>The site PI should sign in this column against <u><strong>each </strong></u>member of staff. This is to confirm they agree with the tasks allocated.</p>",
+        "strapline": "Signature of PI",
+        "_graphic": {
+          "src": "course/en/assets/954c25e4090bd2491712676ec1bcc598d46f5595.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 71.5,
+        "_top": 9.5
+      },
+      {
+        "title": "Date",
+        "_ariaLevel": 0,
+        "body": "<p>This should be the date the PI is signing off against the names.&nbsp;</p>",
+        "strapline": "Date",
+        "_graphic": {
+          "src": "course/en/assets/001cd12edbbcb1b8facbabaecefd3ed0d34f45f4.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 79.5,
+        "_top": 9.5
+      },
+      {
+        "title": "PI Oversight Required?",
+        "_ariaLevel": 0,
+        "body": "<p>PI oversight is required for any nurse or other healthcare professional listed on the delegation log who will be undertaking eligibility/consent tasks.</p>",
+        "strapline": "PI Oversight Required?",
+        "_graphic": {
+          "src": "course/en/assets/36b79b4c9aca66535f1cb2a35a7380c9782cca30.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 86.5,
+        "_top": 9.5
+      },
+      {
+        "title": "Signature of PI Confirming Oversight",
+        "_ariaLevel": 0,
+        "body": "<p>PI to sign here if oversight of any staff members is required.&nbsp;</p>",
+        "strapline": "Signature of PI Confirming Oversight",
+        "_graphic": {
+          "src": "course/en/assets/c03681672c0ac1054ec35b904c0cce90b58637c3.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 6.5,
+        "_top": 36.5
+      },
+      {
+        "title": "Date",
+        "_ariaLevel": 0,
+        "body": "<p>Date that the PI signed to confirm oversight.&nbsp;</p>",
+        "strapline": "Date",
+        "_graphic": {
+          "src": "course/en/assets/eeb750f2a92a108ed492294403343570a8fc4c9a.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 75,
+        "_top": 36.5
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Thanks for filling in the forms!",
+    "displayTitle": "Thanks for filling in the forms!",
+    "body": "<p><strong>Once all documents are complete please email them to&nbsp;<a href=\"mailto:#\">person@bristol.ac.uk</a></strong></p><p>On receipt of the documents the study team will send out the relevant training links to each member of staff, with individual logins and passwords. This training should be completed ASAP. Please note that we cannot apply for sponsorship without the PI completing their training.</p><p>If you have any queries please ring on&nbsp;<a href=\"tel:01179000000\">0117 9000 000</a>.</p>",
+    "_id": "5d78b1bf2a18cb58227701d0",
+    "_parentId": "5d78b1be2a18cb58227701b0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "You've finished! Go back to the menu or feel free to close this page."
+  },
+  {
+    "_component": "text",
+    "_classes": "flat-card",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Background and Study Aims",
+    "displayTitle": "Background and Study Aims",
+    "body": "<p>Middle ear infections, medical term&nbsp;<strong>Acute Otitis Media or AOM</strong>,&nbsp;are common painful infections in children. Germs multiply in the confined middle ear resulting in a build-up of pressure that stretches the ear drum. In around 1 in 7 children, the ear drum bursts, releasing a liquid (medical term: discharge or otorrhoea) that can be seen coming out of the ear. It is commonly believed that the pain of AOM improves when the ear drum bursts, but research shows that the pain is similar with or without the ear drum bursting.</p><p>At the moment nearly all UK children with AOM and discharge (AOMd) seen by their GP/nurse are treated with antibiotics by mouth. These can cause side effects like rashes, diarrhoea and vomiting and more rarely, severe allergic reactions. They can also make the germs in a child’s body resistant to antibiotics. It may be possible to use alternative treatments for ear discharge. One possibility is to use antibiotic eardrops. Research has shown these are better than antibiotics by mouth for children with runny ears and grommets, probably because the antibiotics are given directly to the place they are most needed.</p><p>Another potential treatment is a ‘delayed’ antibiotic prescription (where parents are advised to wait to see if the child’s infection improves without antibiotics). Studies in other infections suggest this can be just as effective and safe, but with fewer side effects. Since AOMd is painful and distressing for children and their families it is important to show that any new treatments work at least as well as the current standard treatment (immediate antibiotics by mouth).</p><p>The aim of this study is to test whether giving an antibiotic ear drop or a delayed antibiotic by mouth is as good as immediately giving antibiotics by mouth for children (without grommets) who have developed AOMd.</p>",
+    "_id": "5d78b1bf2a18cb58227701d1",
+    "_parentId": "5d78b1be2a18cb58227701a7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "flat-card",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Who can participate?",
+    "displayTitle": "Who can participate?",
+    "body": "<p>Children aged 1 to 16 with AOMd</p>",
+    "_id": "5d78b1bf2a18cb58227701d2",
+    "_parentId": "5d78b1be2a18cb58227701a9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "flat-card",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What does the study involve?",
+    "displayTitle": "What does the study involve?",
+    "body": "<p>Participants are randomly allocated to one of three treatments: immediate antibiotic ear drops, delayed oral antibiotics or immediate oral antibiotics (usual care), all for 7 days. AOMd symptoms (pain, fever, being unwell, sleep disturbance, discharge, and episodes of distress) are assessed at the start of the study and after 14 days.</p>",
+    "_id": "5d78b1bf2a18cb58227701d3",
+    "_parentId": "5d78b1be2a18cb58227701aa",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "flat-card",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What are the possible benefits and risks of participating?",
+    "displayTitle": "What are the possible benefits and risks of participating?",
+    "body": "<p>The NHS has paid for and approved this study because evidence suggests the treatment might work.</p><p>Participants will be helping research to improve the future treatment for children with ear discharge.</p><p>Risks include possible allergic reactions to the antibiotic drops or antibiotics taken by mouth, but the medicines are routinely prescribed in the UK and are considered safe to use for children.</p><p>The advice to gently press on the outer ear flap to help the ear drops flow into the ear hole may cause discomfort to some children. If this happens, it is not necessary to continue using the “pumping” method but to simple keep the child’s head tilted to one side for a few extra minutes, to make sure the drops have reached the ear drum.</p><p>The collections of the stool samples may prove to be a sensitive issue, and therefore the stool sample collection is optional.</p>",
+    "_id": "5d78b1bf2a18cb58227701d4",
+    "_parentId": "5d78b1be2a18cb58227701ad",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "flat-card",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Where is the study run from?",
+    "displayTitle": "Where is the study run from?",
+    "body": "<p>175 GP practices (UK).</p>",
+    "_id": "5d78b1bf2a18cb58227701d5",
+    "_parentId": "5d78b1be2a18cb58227701af",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "flat-card information",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "When is the study starting and how long is it expected to run for?",
+    "displayTitle": "When is the study starting and how long is it expected to run for?",
+    "body": "<p>January 2018 to October 2020.</p>",
+    "_id": "5d78b1bf2a18cb58227701d6",
+    "_parentId": "5d78b1be2a18cb58227701b1",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "flat-card",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Who is funding the study?",
+    "displayTitle": "Who is funding the study?",
+    "body": "<p>NIHR Health Technology Assessment Programme (UK).</p>",
+    "_id": "5d78b1bf2a18cb58227701d7",
+    "_parentId": "5d78b1be2a18cb58227701b2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "flat-card",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Who is the main contact?",
+    "displayTitle": "Who is the main contact?",
+    "body": "<p><a href=\"mailto:#\">person@bristol.ac.uk</a></p>",
+    "_id": "5d78b1bf2a18cb58227701d8",
+    "_parentId": "5d78b1be2a18cb58227701b3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Organisation of Information Document (OID)",
+    "displayTitle": "Organisation of Information Document (OID)",
+    "body": "<p><a class=\"button\" href=\"course/en/assets/7ff9ee082e2694073c43f2e6ac5508ebadc5a420.docx\" download=\"REST_validated_OID_v1.0_20190626.docx\"><span style=\"color:white\">Download the Organisation of Information Document (OID)</span></a></p><p>The OID allows the sponsor to make clear what activities will be undertaken locally and the cost type for each activity. It's also where you can provide your bank details so we can pay you your research costs.</p>",
+    "_id": "5d78b1bf2a18cb58227701d9",
+    "_parentId": "5d78b1be2a18cb58227701ab",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select the pins to see the areas you need to complete.",
+    "_setCompletionOn": "allItems",
+    "_graphic": {
+      "src": "course/en/assets/21f59b5cbdd3615944174639233c89f1431c48d2.png",
+      "alt": "",
+      "attribution": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "<p>Use the <em>plus</em> symbol below to see more info and the <em>arrow</em> to cycle through the locations in the document.</p>",
+    "_hidePagination": false,
+    "_canCycleThroughPagination": false,
+    "_useGraphicsAsPins": false,
+    "_items": [
+      {
+        "title": "Page 3, Section 9",
+        "_ariaLevel": 0,
+        "body": "<p>Please fill in the table with your Name, Post, etc.</p>",
+        "strapline": "Page 3, Section 9",
+        "_graphic": {
+          "src": "course/en/assets/30fd7b26ff8b872ecb062f378ef6921a8879e8ef.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 15,
+        "_top": 67
+      },
+      {
+        "title": "Page 17",
+        "_ariaLevel": 0,
+        "body": "<p>Please fill in the areas highlighted in yellow.</p>",
+        "strapline": "Page 3, Section 9",
+        "_graphic": {
+          "src": "course/en/assets/b8011d36e15fdf5a7f56ba610f7dd14c36b90ddd.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 60,
+        "_top": 45
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Complete list of documents/information required",
+    "displayTitle": "Complete list of documents/information required",
+    "body": "<ul><li><strong>Signed and dated (within 2 years) CVs</strong> for all staff taking part (i.e all staff who will appear&nbsp;on the delegation log). Could you please include your work email address on your C.V (even if this means writing it on).</li><li><strong>PI GCP certificate (dated within 3 years). </strong>If any other members of staff have a GCP certificate then please submit these, but it is not mandatory for them to have one.</li><li><strong>Organisation of Information Document</strong></li><li><strong>Signed Site&nbsp;Agreement&nbsp;</strong></li><li><strong>Delegation Log</strong></li></ul>",
+    "_id": "5d78b1bf2a18cb58227701de",
+    "_parentId": "5d78b1be2a18cb58227701a8",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  }
+]

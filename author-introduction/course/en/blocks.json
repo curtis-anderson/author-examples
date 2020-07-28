@@ -1,0 +1,403 @@
+[
+  {
+    "title": "b-05",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 1,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5e39a480887a5e431ae81ecf",
+    "_parentId": "5e39a47f887a5e431ae81ecb",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": true,
+      "_classes": "fade-in-bottom",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center center"
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "b-40",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 2,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5e39a480887a5e431ae81ed0",
+    "_parentId": "5e39a47f887a5e431ae81ecc",
+    "_type": "block"
+  },
+  {
+    "title": "b-65",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 3,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5e39a480887a5e431ae81ed1",
+    "_parentId": "5e39a480887a5e431ae81ecd",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "b-100",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-color-inverted",
+    "_trackingId": 4,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5e39a480887a5e431ae81ed2",
+    "_parentId": "5e39a480887a5e431ae81ece",
+    "_type": "block",
+    "_trickle": {
+      "_isEnabled": true,
+      "_button": {
+        "_isEnabled": true,
+        "text": "Continue",
+        "startText": "Continue",
+        "finalText": "Continue"
+      }
+    }
+  },
+  {
+    "title": "b-10",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 5,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5e39a480887a5e431ae81ed3",
+    "_parentId": "5e39a47f887a5e431ae81ecb",
+    "_type": "block"
+  },
+  {
+    "title": "b-45",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 6,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5e39a480887a5e431ae81ed4",
+    "_parentId": "5e39a47f887a5e431ae81ecc",
+    "_type": "block"
+  },
+  {
+    "title": "b-75",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 7,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5e39a480887a5e431ae81ed5",
+    "_parentId": "5e39a480887a5e431ae81ecd",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "b-105",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 8,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5e39a480887a5e431ae81ed6",
+    "_parentId": "5e39a480887a5e431ae81ece",
+    "_type": "block"
+  },
+  {
+    "title": "b-15",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 9,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5e39a480887a5e431ae81ed7",
+    "_parentId": "5e39a47f887a5e431ae81ecb",
+    "_type": "block"
+  },
+  {
+    "title": "b-50",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 10,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5e39a480887a5e431ae81ed8",
+    "_parentId": "5e39a47f887a5e431ae81ecc",
+    "_type": "block"
+  },
+  {
+    "title": "b-80",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 11,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5e39a480887a5e431ae81ed9",
+    "_parentId": "5e39a480887a5e431ae81ecd",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "b-20",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 12,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5e39a480887a5e431ae81eda",
+    "_parentId": "5e39a47f887a5e431ae81ecb",
+    "_type": "block"
+  },
+  {
+    "title": "b-55",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 13,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5e39a480887a5e431ae81edb",
+    "_parentId": "5e39a47f887a5e431ae81ecc",
+    "_type": "block"
+  },
+  {
+    "title": "b-85",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 14,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5e39a480887a5e431ae81edc",
+    "_parentId": "5e39a480887a5e431ae81ecd",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 2
+    }
+  },
+  {
+    "title": "b-25",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 15,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5e39a480887a5e431ae81edd",
+    "_parentId": "5e39a47f887a5e431ae81ecb",
+    "_type": "block"
+  },
+  {
+    "title": "b-60",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 16,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5e39a480887a5e431ae81ede",
+    "_parentId": "5e39a47f887a5e431ae81ecc",
+    "_type": "block"
+  },
+  {
+    "title": "b-90",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 17,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5e39a480887a5e431ae81edf",
+    "_parentId": "5e39a480887a5e431ae81ecd",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 2
+    }
+  },
+  {
+    "title": "b-30",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 18,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5e39a480887a5e431ae81ee0",
+    "_parentId": "5e39a47f887a5e431ae81ecb",
+    "_type": "block"
+  },
+  {
+    "title": "b-95",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 19,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5e39a480887a5e431ae81ee1",
+    "_parentId": "5e39a480887a5e431ae81ecd",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 2
+    }
+  },
+  {
+    "title": "b-35",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 20,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5e39a480887a5e431ae81ee2",
+    "_parentId": "5e39a47f887a5e431ae81ecb",
+    "_type": "block"
+  }
+]

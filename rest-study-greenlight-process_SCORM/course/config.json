@@ -1,0 +1,105 @@
+{
+  "_defaultLanguage": "en",
+  "_defaultDirection": "ltr",
+  "_questionWeight": 1,
+  "_generateSourcemap": false,
+  "_forceRouteLocking": true,
+  "_disableAnimationFor": [],
+  "_id": "5d78b1be2a18cb582277019f",
+  "_courseId": "5d78b1be2a18cb582277019a",
+  "_drawer": {
+    "_showEasing": "easeOutQuart",
+    "_hideEasing": "easeInQuart",
+    "_duration": 400
+  },
+  "_accessibility": {
+    "_isEnabled": true,
+    "_isTextProcessorEnabled": true,
+    "_isSkipNavigationEnabled": true,
+    "_ariaLevels": {
+      "_menu": 1,
+      "_menuItem": 2,
+      "_page": 1,
+      "_article": 2,
+      "_block": 3,
+      "_component": 4,
+      "_componentItem": 5
+    }
+  },
+  "screenSize": {
+    "small": 519,
+    "medium": 759,
+    "large": 1024
+  },
+  "__v": 1,
+  "_completionCriteria": {
+    "_requireContentCompleted": true,
+    "_requireAssessmentCompleted": false
+  },
+  "_logging": {
+    "_isEnabled": true,
+    "_level": "info",
+    "_console": true
+  },
+  "_scrollingContainer": {
+    "_isEnabled": false,
+    "_limitToSelector": ""
+  },
+  "_trickle": {
+    "_completionAttribute": "_isComplete"
+  },
+  "_languagePicker": {
+    "_isEnabled": false,
+    "title": "",
+    "displayTitle": "",
+    "body": "",
+    "_showOnCourseLoad": true,
+    "_languagePickerIconClass": "icon-language-2",
+    "_restoreStateOnLanguageChange": false,
+    "_classes": "",
+    "_languages": []
+  },
+  "_spoor": {
+    "_isEnabled": true,
+    "_tracking": {
+      "_shouldSubmitScore": false,
+      "_shouldStoreResponses": true,
+      "_shouldRecordInteractions": true
+    },
+    "_reporting": {
+      "_onTrackingCriteriaMet": "completed",
+      "_onAssessmentFailure": "incomplete",
+      "_resetStatusOnLanguageChange": false
+    },
+    "_advancedSettings": {
+      "_showDebugWindow": false,
+      "_commitOnStatusChange": true,
+      "_timedCommitFrequency": 10,
+      "_maxCommitRetries": 5,
+      "_commitRetryDelay": 2000,
+      "_suppressErrors": false,
+      "_commitOnVisibilityChangeHidden": true,
+      "_manifestIdentifier": "adapt_manifest",
+      "_exitStateIfIncomplete": "auto",
+      "_exitStateIfComplete": "auto"
+    }
+  },
+  "build": {
+    "includes": [
+      "adapt-contrib-boxMenu",
+      "5d78aa265449fd54d4e9440e",
+      "adapt-contrib-text",
+      "adapt-contrib-graphic",
+      "adapt-contrib-hotgraphic",
+      "adapt-contrib-narrative",
+      "adapt-contrib-assessment",
+      "adapt-contrib-bookmarking",
+      "adapt-contrib-languagePicker",
+      "adapt-contrib-pageLevelProgress",
+      "adapt-contrib-resources",
+      "adapt-contrib-trickle",
+      "adapt-contrib-tutor",
+      "adapt-contrib-spoor"
+    ]
+  }
+}

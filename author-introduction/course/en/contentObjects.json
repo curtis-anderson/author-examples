@@ -1,0 +1,212 @@
+[
+  {
+    "title": "Presentation Components",
+    "displayTitle": "Presentation Components",
+    "body": "<p>Find out what presentation components are available within the core bundle and how you might consider using them within your courses.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "Scroll down to see what presentation components are available as part of the v5 core bundle.",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "2 mins",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5e39a47f887a5e431ae81ec5",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "Placeholder graphic.",
+      "src": "course/en/assets/6011edc04d991ea42140c585ee43f6459ce6f9bd.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": false,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Question Components",
+    "displayTitle": "Question Components",
+    "body": "<p>Discover what question components are available within the framework, along with some tips on how to use them.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Without a range of question components, we can’t easily measure if learners are meeting the intended course objectives, provide guidance and feedback if they’re not, or give them opportunities to practise in a ‘safe environment’.<br /><br />Discover what question components are available within the framework, along with some tips on how to use them.</p>",
+    "instruction": "Scroll down to see what question components are available as part of the v5 core bundle.",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "2 mins",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5e39a47f887a5e431ae81ec7",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/4829a4b4b069b09c2cc594e557596cee711c2a76.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": false,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Assessment",
+    "displayTitle": "Assessment",
+    "body": "<p>Find out more about the assessment functionality, including randomised banks and the results feature.</p>",
+    "_classes": "assessment",
+    "subtitle": "",
+    "pageBody": "<p>We’ve put together a very short quiz to demonstrate the new assessment functionality. In this simple example there are two banks that each contain three questions with two being taken from each bank at random. The order in which the questions are presented is then also randomised, as is the order of each question’s options.</p>",
+    "instruction": "Think you can get a perfect score? Scroll down to attempt the first question.",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "2 mins",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5e39a47f887a5e431ae81ec9",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/9c5039ce1cbd44a125a304b59e2ef2020ece59a6.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": false,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,320 @@
+{
+  "title": "Manual of Flying",
+  "displayTitle": "Manual of Flying",
+  "body": "<p>This course covers all you need to know in order to get your wings.</p>",
+  "subtitle": "",
+  "description": "",
+  "instruction": "Complete the modules in sequential order. Completing modules and lessons will unlock the next one.",
+  "_htmlClasses": "",
+  "_latestTrackingId": 54,
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Submit"
+    },
+    "_reset": {
+      "buttonText": "Reset",
+      "ariaLabel": "Reset"
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Correct answer",
+      "ariaLabel": "Show correct answer"
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "My answer",
+      "ariaLabel": "Hide correct answer"
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": "Show feedback"
+    },
+    "remainingAttemptsText": "attempts remaining",
+    "remainingAttemptText": "final attempt",
+    "disabledAriaLabel": "This button is disabled at the moment"
+  },
+  "_classes": "",
+  "_lockType": "custom",
+  "_id": "course",
+  "_start": {
+    "_isEnabled": false,
+    "_startIds": [],
+    "_force": false,
+    "_isMenuDisabled": false
+  },
+  "_globals": {
+    "_accessibility": {
+      "skipNavigationText": "Skip navigation",
+      "_ariaLabels": {
+        "answeredIncorrectly": "You answered incorrectly",
+        "answeredCorrectly": "You answered correctly",
+        "selectedAnswer": "selected",
+        "unselectedAnswer": "not selected",
+        "skipNavigation": "Skip Navigation",
+        "previous": "Back",
+        "navigationDrawer": "Open course resources.",
+        "close": "Close",
+        "closeDrawer": "Close Drawer",
+        "closeResources": "Close resources",
+        "drawer": "Top of side drawer",
+        "closePopup": "Close popup",
+        "next": "Next",
+        "done": "Done",
+        "complete": "Completed",
+        "incomplete": "Incomplete",
+        "incorrect": "Incorrect",
+        "correct": "Correct",
+        "locked": "Locked",
+        "visited": "Visited"
+      }
+    },
+    "_components": {
+      "_text": {
+        "ariaRegion": ""
+      },
+      "_narrative": {
+        "ariaRegion": "Slide show. Select the next button to progress."
+      },
+      "_media": {
+        "ariaRegion": "Media player{{#any _transcript._inlineTranscript _transcript._externalTranscript}} and transcript{{/any}}.",
+        "skipToTranscript": "Skip to transcript"
+      },
+      "_hotgraphic": {
+        "ariaRegion": "Image with selectable areas. Select each button to show more information.",
+        "popupPagination": "{{itemNumber}} / {{totalItems}}"
+      },
+      "_accordion": {
+        "ariaRegion": "List of expandable sections. Select each button to expand the content."
+      },
+      "_graphic": {
+        "ariaRegion": ""
+      },
+      "_matching": {
+        "ariaRegion": "Matching. Select from lists and then submit."
+      },
+      "_textinput": {
+        "ariaRegion": "Text input. Type your answer and then submit."
+      },
+      "_mcq": {
+        "ariaRegion": "Multiple choice question. Select your option and then submit."
+      },
+      "_gmcq": {
+        "ariaRegion": "Multiple choice question. Select your option and then submit."
+      },
+      "_assessmentResults": {
+        "ariaRegion": "Assessment results."
+      },
+      "_slider": {
+        "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
+        "labelStart": "Start of the scale",
+        "labelEnd": "End of the scale"
+      },
+      "_adaptAnimationFrame": {
+        "ariaRegion": ""
+      }
+    },
+    "_extensions": {
+      "_trickle": {
+        "incompleteContent": "There is incomplete content above. You must complete this before you can proceed through the course."
+      },
+      "_pageLevelProgress": {
+        "pageLevelProgress": "Page sections",
+        "pageLevelProgressIndicatorBar": "Page progress. Use this to listen to the list of regions in this topic and whether they're completed. You can jump directly to any that are incomplete or which sound particularly interesting. {{percentageComplete}}%",
+        "pageLevelProgressMenuBar": "Page completion {{percentageComplete}}%",
+        "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
+        "optionalContent": "Optional content"
+      },
+      "_resources": {
+        "resources": "Additional resources."
+      }
+    },
+    "_menu": {
+      "_boxMenu": {
+        "durationLabel": "Duration:"
+      }
+    }
+  },
+  "_type": "course",
+  "themeVariables": {
+    "_global": {
+      "font-color": "#4d4d4d",
+      "font-color-inverted": "#ffffff",
+      "link": "",
+      "link-inverted": "",
+      "link-hover": "",
+      "link-inverted-hover": "",
+      "heading-color": "#5934b9",
+      "heading-color-inverted": "#ffffff"
+    },
+    "_items": {
+      "item-color": "#5934b9",
+      "item-color-inverted": "#ffffff",
+      "item-color-hover": "",
+      "item-color-inverted-hover": "",
+      "item-color-selected": "",
+      "item-color-inverted-selected": "",
+      "visited": "#727272",
+      "visited-inverted": "#ffffff"
+    },
+    "_buttons": {
+      "btn-color": "#4d4d4d",
+      "btn-color-inverted": "#ffffff",
+      "btn-color-hover": "",
+      "btn-color-inverted-hover": "",
+      "disabled": "#dddddd",
+      "disabled-inverted": "#000000"
+    },
+    "_validation": {
+      "validation-success": "#065f28",
+      "validation-success-inverted": "#ffffff",
+      "validation-error": "#ff0000",
+      "validation-error-inverted": "#ffffff"
+    },
+    "_progress": {
+      "progress": "#9096a0",
+      "progress-inverted": "#ffffff",
+      "progress-border": "#9096a0"
+    },
+    "_nav": {
+      "nav": "#ffffff",
+      "nav-inverted": "#9096a0",
+      "nav-icon": "",
+      "nav-icon-inverted": "",
+      "nav-icon-hover": "",
+      "nav-icon-inverted-hover": "",
+      "nav-progress": "",
+      "nav-progress-inverted": "",
+      "nav-progress-border": "",
+      "nav-progress-hover": "",
+      "nav-progress-inverted-hover": "",
+      "nav-progress-border-hover": ""
+    },
+    "_notify": {
+      "notify": "#5934b9",
+      "notify-inverted": "#ffffff",
+      "notify-link": "",
+      "notify-link-hover": "",
+      "notify-btn": "",
+      "notify-btn-inverted": "",
+      "notify-btn-hover": "",
+      "notify-btn-inverted-hover": "",
+      "notify-icon": "",
+      "notify-icon-inverted": "",
+      "notify-icon-hover": "",
+      "notify-icon-inverted-hover": ""
+    },
+    "_drawer": {
+      "drawer": "#263944",
+      "drawer-inverted": "#ffffff",
+      "drawer-link": "",
+      "drawer-link-hover": "",
+      "drawer-icon": "",
+      "drawer-icon-inverted": "",
+      "drawer-icon-hover": "",
+      "drawer-icon-inverted-hover": "",
+      "drawer-item": "",
+      "drawer-item-inverted": "",
+      "drawer-item-hover": "",
+      "drawer-item-inverted-hover": "",
+      "drawer-item-selected": "",
+      "drawer-item-inverted-selected": "",
+      "drawer-progress": "",
+      "drawer-progress-inverted": "",
+      "drawer-progress-border": "",
+      "drawer-progress-hover": "",
+      "drawer-progress-inverted-hover": "",
+      "drawer-progress-border-hover": ""
+    },
+    "_misc": {
+      "background": "#000000",
+      "background-inverted": "#ffffff",
+      "shadow": "#000000",
+      "shadow-inverted": "#ffffff"
+    }
+  },
+  "_assessment": {
+    "_isPercentageBased": true,
+    "_scoreToPass": 60
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": true,
+    "_isCompletionIndicatorEnabled": false,
+    "_isShownInNavigationBar": true
+  },
+  "_resources": {
+    "_isEnabled": true,
+    "_drawerOrder": 0,
+    "title": "Resources",
+    "description": "Select here to view resources for this course",
+    "_filterButtons": {
+      "all": "All",
+      "document": "Documents",
+      "media": "Media",
+      "link": "Links"
+    },
+    "_filterAria": {
+      "allAria": "View all resources",
+      "documentAria": "View document resources",
+      "mediaAria": "View media resources",
+      "linkAria": "View resource links"
+    },
+    "_resourcesItems": [
+      {
+        "_type": "document",
+        "_forceDownload": false,
+        "title": "AP 3456 Volume 1",
+        "filename": "AP-2456-Vol1",
+        "description": "AP3456 RAF Flying Manual Volume 1",
+        "_link": "course/en/assets/1d6eebef02e1eb2eab42ee088b168a2633647533.docx"
+      },
+      {
+        "_type": "document",
+        "_forceDownload": false,
+        "title": "AP 3456 Volume 2",
+        "filename": "AP-3456-Vol1",
+        "description": "AP 3456 RAF Flying Manual Volume 2",
+        "_link": "course/en/assets/1d6eebef02e1eb2eab42ee088b168a2633647533.docx"
+      }
+    ]
+  },
+  "_bookmarking": {
+    "_isEnabled": true,
+    "_level": "page",
+    "_showPrompt": true,
+    "title": "Bookmarking",
+    "body": "Would you like to continue where you left off?",
+    "_buttons": {
+      "yes": "Yes",
+      "no": "No"
+    }
+  },
+  "_boxMenu": {
+    "_backgroundImage": {
+      "_large": "course/en/assets/c87e8740c066f05a39a349aaff99caeb95de4540.webp",
+      "_medium": "course/en/assets/c87e8740c066f05a39a349aaff99caeb95de4540.webp",
+      "_small": "course/en/assets/c87e8740c066f05a39a349aaff99caeb95de4540.webp"
+    },
+    "_backgroundStyles": {
+      "_backgroundRepeat": "no-repeat",
+      "_backgroundSize": "cover",
+      "_backgroundPosition": "center center"
+    },
+    "_menuHeader": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      }
+    }
+  }
+}

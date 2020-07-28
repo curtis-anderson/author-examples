@@ -1,0 +1,1833 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<p>Fuels in current Service use are permitted to have a wide variation in specific gravity (SG) in order to allow the oil industry to obtain fuel from many sources.&nbsp; However, it is emphasized that the industry makes every effort to maintain the 'normal' SG of fuel supplied and values of SG at the wider limits of the permitted range are seldom encountered.&nbsp; Variations in SG can have a significant effect on the range and endurance of pure jet and turboprop engines, but are normally disregarded in the case of piston engines.&nbsp; This chapter discusses jet engine fuels only.</p><p>&nbsp;</p>",
+    "_id": "5e5d873ac8c49318aff74a00",
+    "_parentId": "5e5d873ac8c49318aff749ff",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5e5d8740c8c49318aff74a05",
+    "_parentId": "5e5d8740c8c49318aff74a04",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5e5d8747c8c49318aff74a0a",
+    "_parentId": "5e5d8747c8c49318aff74a09",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5e5d8751c8c49318aff74a0f",
+    "_parentId": "5e5d8751c8c49318aff74a0e",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5e5d875ac8c49318aff74a14",
+    "_parentId": "5e5d875ac8c49318aff74a13",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5e5d87a8c8c49318aff74a1e",
+    "_parentId": "5e5d87a8c8c49318aff74a1d",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5e5d87b3c8c49318aff74a23",
+    "_parentId": "5e5d87b3c8c49318aff74a22",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5e5d87bdc8c49318aff74a28",
+    "_parentId": "5e5d87bdc8c49318aff74a27",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5e5d87c6c8c49318aff74a2d",
+    "_parentId": "5e5d87c6c8c49318aff74a2c",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5e5d87cec8c49318aff74a32",
+    "_parentId": "5e5d87cec8c49318aff74a31",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5e5d87d6c8c49318aff74a37",
+    "_parentId": "5e5d87d6c8c49318aff74a36",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5e5d87e8c8c49318aff74a3c",
+    "_parentId": "5e5d87e8c8c49318aff74a3b",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5e5d87f1c8c49318aff74a41",
+    "_parentId": "5e5d87f1c8c49318aff74a40",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Demo Course",
+    "displayTitle": "Demo Course",
+    "body": "<p>&nbsp;There's nothing more to see here...</p>",
+    "_id": "5e5d8833c8c49318aff74a46",
+    "_parentId": "5e5d8833c8c49318aff74a45",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5e5d8838c8c49318aff74a4b",
+    "_parentId": "5e5d8838c8c49318aff74a4a",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5e5d883cc8c49318aff74a50",
+    "_parentId": "5e5d883cc8c49318aff74a4f",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5e5d8841c8c49318aff74a55",
+    "_parentId": "5e5d8841c8c49318aff74a54",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5e5d8846c8c49318aff74a5a",
+    "_parentId": "5e5d8846c8c49318aff74a59",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5e5d884ac8c49318aff74a5f",
+    "_parentId": "5e5d884ac8c49318aff74a5e",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5e5d884ec8c49318aff74a64",
+    "_parentId": "5e5d884ec8c49318aff74a63",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5e5d8851c8c49318aff74a69",
+    "_parentId": "5e5d8851c8c49318aff74a68",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5e5d8854c8c49318aff74a6e",
+    "_parentId": "5e5d8854c8c49318aff74a6d",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5e5d8858c8c49318aff74a73",
+    "_parentId": "5e5d8858c8c49318aff74a72",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5e5d885bc8c49318aff74a78",
+    "_parentId": "5e5d885bc8c49318aff74a77",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5e5d885fc8c49318aff74a7d",
+    "_parentId": "5e5d885fc8c49318aff74a7c",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5e5d8863c8c49318aff74a82",
+    "_parentId": "5e5d8863c8c49318aff74a81",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5e5d8867c8c49318aff74a87",
+    "_parentId": "5e5d8867c8c49318aff74a86",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5e5d886bc8c49318aff74a8c",
+    "_parentId": "5e5d886bc8c49318aff74a8b",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5e5d886fc8c49318aff74a91",
+    "_parentId": "5e5d886fc8c49318aff74a90",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5e5d8872c8c49318aff74a96",
+    "_parentId": "5e5d8872c8c49318aff74a95",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5e5d8876c8c49318aff74a9b",
+    "_parentId": "5e5d8876c8c49318aff74a9a",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5e5d887ac8c49318aff74aa0",
+    "_parentId": "5e5d887ac8c49318aff74a9f",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5e5d887dc8c49318aff74aa5",
+    "_parentId": "5e5d887dc8c49318aff74aa4",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5e5d8881c8c49318aff74aaa",
+    "_parentId": "5e5d8881c8c49318aff74aa9",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "This is a text component",
+    "_id": "5e5d8884c8c49318aff74aaf",
+    "_parentId": "5e5d8884c8c49318aff74aae",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "_id": "5e5e7453c8c49318aff74acd",
+    "_parentId": "5e5e722bc8c49318aff74acc",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/65506eb9a9840d73ba0e0ce67e1ee9fabb436588.png",
+      "small": "course/en/assets/65506eb9a9840d73ba0e0ce67e1ee9fabb436588.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Approved Fuels for Jet Engines",
+    "displayTitle": "Approved Fuels for Jet Engines",
+    "body": "",
+    "_id": "5e710e6c839c343768f54d36",
+    "_parentId": "5e710e67839c343768f54d35",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select the Options Below",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "AVTUR",
+        "body": "<p>AVTUR - an aviation kerosene having a 'normal' SG of 0.8 at 15 C, but a permitted range between 0.775 and 0.825, at 15 C.</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "AVTAG",
+        "body": "<p>AVTAG - a wide-cut gasoline fuel having a 'normal' SG of 0.770 at 15 C, but a permitted range between 0.751 and 0.802, at 15 C.</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "AVCAT",
+        "body": "<p>AVCAT - a kerosene-type fuel similar to AVTUR but with a higher flash-point, normally used by RN carrier-borne aircraft.&nbsp; AVCAT has a 'normal' SG of 0.817 at 15 C, but a permitted range between 0.788 and 0.845, at 15 C.</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "AVGAS",
+        "body": "<p>AVGAS - a quality gasoline designed for piston engines.&nbsp; The standard RAF fuel is known as 100/130 grade and has a SG of 0.69.&nbsp; Use of AVGAS in jet engines has been approved in emergency only and such clearance is shown in Aircrew Manuals.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "_id": "5e8650bee271d8690e695ce4",
+    "_parentId": "5e863452e271d8690e695cdd",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Introduction Component",
+    "displayTitle": "Introduction",
+    "body": "<p>An <strong>atmosphere</strong> (from <a href=\"https://en.wikipedia.org/wiki/Ancient_Greek\" title=\"Ancient Greek\">Ancient Greek</a> ἀτμός <em>(atmos)</em>, meaning 'vapour', and σφαῖρα <em>(sphaira)</em>, meaning 'ball' or 'sphere') is a layer or a set of layers of <a href=\"https://en.wikipedia.org/wiki/Gas\" title=\"Gas\">gases</a> surrounding a <a href=\"https://en.wikipedia.org/wiki/Planet\" title=\"Planet\">planet</a> or other <a href=\"https://en.wikipedia.org/wiki/Solid\" title=\"Solid\">material body</a>, that is held in place by the <a href=\"https://en.wikipedia.org/wiki/Gravity\" title=\"Gravity\">gravity</a> of that body. An atmosphere is more likely to be retained if the gravity it is subject to is high and the <a href=\"https://en.wikipedia.org/wiki/Temperature\" title=\"Temperature\">temperature</a> of the atmosphere is low.</p><p>The <a href=\"https://en.wikipedia.org/wiki/Atmosphere_of_Earth\" title=\"Atmosphere of Earth\">atmosphere of Earth</a> is composed of <a href=\"https://en.wikipedia.org/wiki/Nitrogen\" title=\"Nitrogen\">nitrogen</a> (about 78%), <a href=\"https://en.wikipedia.org/wiki/Oxygen\" title=\"Oxygen\">oxygen</a> (about 21%), <a href=\"https://en.wikipedia.org/wiki/Argon\" title=\"Argon\">argon</a> (about 0.9%), <a href=\"https://en.wikipedia.org/wiki/Carbon_dioxide_in_Earth%27s_atmosphere\" title=\"Carbon dioxide in Earth's atmosphere\">carbon dioxide</a> (0.04%) and other gases in trace amounts. Oxygen is used by most <a href=\"https://en.wikipedia.org/wiki/Organism\" title=\"Organism\">organisms</a> for <a href=\"https://en.wikipedia.org/wiki/Respiration_(physiology)\" title=\"Respiration (physiology)\">respiration</a>; nitrogen is <a href=\"https://en.wikipedia.org/wiki/Nitrogen_fixation\" title=\"Nitrogen fixation\">fixed</a> by bacteria and <a href=\"https://en.wikipedia.org/wiki/Lightning\" title=\"Lightning\">lightning</a> to produce <a href=\"https://en.wikipedia.org/wiki/Ammonia\" title=\"Ammonia\">ammonia</a> used in the construction of <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Nucleotides\" title=\"Nucleotides\">nucleotides</a> and <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Amino_acids\" title=\"Amino acids\">amino acids</a>; and <a href=\"https://en.wikipedia.org/wiki/Carbon_dioxide\" title=\"Carbon dioxide\">carbon dioxide</a> is used by <a href=\"https://en.wikipedia.org/wiki/Plant\" title=\"Plant\">plants</a>, <a href=\"https://en.wikipedia.org/wiki/Algae\" title=\"Algae\">algae</a> and <a href=\"https://en.wikipedia.org/wiki/Cyanobacteria\" title=\"Cyanobacteria\">cyanobacteria</a> for <a href=\"https://en.wikipedia.org/wiki/Photosynthesis\" title=\"Photosynthesis\">photosynthesis</a>. The atmosphere helps to protect living organisms from genetic damage by <a href=\"https://en.wikipedia.org/wiki/Sunlight\" title=\"Sunlight\">solar</a> <a href=\"https://en.wikipedia.org/wiki/Ultraviolet\" title=\"Ultraviolet\">ultraviolet</a> <a href=\"https://en.wikipedia.org/wiki/Radiation\" title=\"Radiation\">radiation</a>, <a href=\"https://en.wikipedia.org/wiki/Solar_wind\" title=\"Solar wind\">solar wind</a> and <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Cosmic_rays\" title=\"Cosmic rays\">cosmic rays</a>. The current composition of the Earth's atmosphere is the product of billions of years of biochemical <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Modification_Detection_Code\" title=\"Modification Detection Code\">modification</a> of the <a href=\"https://en.wikipedia.org/wiki/Paleoatmosphere\" title=\"Paleoatmosphere\">paleoatmosphere</a> by living organisms.</p>",
+    "_id": "5e86ec66e271d8690e695ce8",
+    "_parentId": "5e5d8780c8c49318aff74a18",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "atmosphere",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The Layers of the Atmosphere",
+    "displayTitle": "The Layers of the Atmosphere",
+    "body": "",
+    "_id": "5e86ee39e271d8690e695cea",
+    "_parentId": "5e860882e271d8690e695cd5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/48b46f2b03bd2db50c98b0050c68c5eca56db2dd.png",
+      "small": "course/en/assets/48b46f2b03bd2db50c98b0050c68c5eca56db2dd.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Composition",
+    "displayTitle": "Composition",
+    "body": "<p>The three major constituents of Earth's atmosphere are <a href=\"https://en.wikipedia.org/wiki/Nitrogen\" title=\"Nitrogen\">nitrogen</a>, <a href=\"https://en.wikipedia.org/wiki/Oxygen\" title=\"Oxygen\">oxygen</a>, and <a href=\"https://en.wikipedia.org/wiki/Argon\" title=\"Argon\">argon</a>. Water vapour accounts for roughly 0.25% of the atmosphere by mass. The concentration of water vapour (a greenhouse gas) varies significantly from around 10 ppm by volume in the coldest portions of the atmosphere to as much as 5% by volume in hot, humid air masses, and concentrations of other atmospheric gases are typically quoted in terms of dry air (without water vapour). The remaining gases are often referred to as trace gases, among which are the <a href=\"https://en.wikipedia.org/wiki/Greenhouse_gas\" title=\"Greenhouse gas\">greenhouse gases</a>, principally carbon dioxide, methane, nitrous oxide, and ozone. Besides argon, already mentioned, other <a href=\"https://en.wikipedia.org/wiki/Noble_gas\" title=\"Noble gas\">noble gases</a>, neon, helium, krypton, and xenon are also present. Filtered air includes trace amounts of many other <a href=\"https://en.wikipedia.org/wiki/Chemical_compound\" title=\"Chemical compound\">chemical compounds</a>. Many substances of natural origin may be present in locally and seasonally variable small amounts as <a href=\"https://en.wikipedia.org/wiki/Aerosol\" title=\"Aerosol\">aerosols</a> in an unfiltered air sample, including <a href=\"https://en.wikipedia.org/wiki/Dust\" title=\"Dust\">dust</a> of mineral and organic composition, <a href=\"https://en.wikipedia.org/wiki/Pollen\" title=\"Pollen\">pollen</a> and <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Spores\" title=\"Spores\">spores</a>, <a href=\"https://en.wikipedia.org/wiki/Sea_spray\" title=\"Sea spray\">sea spray</a>, and <a href=\"https://en.wikipedia.org/wiki/Volcanic_ash\" title=\"Volcanic ash\">volcanic ash</a>. Various industrial <a href=\"https://en.wikipedia.org/wiki/Pollutant\" title=\"Pollutant\">pollutants</a> also may be present as gases or aerosols, such as <a href=\"https://en.wikipedia.org/wiki/Chlorine\" title=\"Chlorine\">chlorine</a> (elemental or in compounds), <a href=\"https://en.wikipedia.org/wiki/Fluorine\" title=\"Fluorine\">fluorine</a> compounds and elemental <a href=\"https://en.wikipedia.org/wiki/Mercury_(element)\" title=\"Mercury (element)\">mercury</a> vapour. Sulfur compounds such as <a href=\"https://en.wikipedia.org/wiki/Hydrogen_sulfide\" title=\"Hydrogen sulfide\">hydrogen sulfide</a> and <a href=\"https://en.wikipedia.org/wiki/Sulfur_dioxide\" title=\"Sulfur dioxide\">sulfur dioxide</a> (SO<sub>2</sub>) may be derived from natural sources or from industrial air pollution.</p>",
+    "_id": "5e86f354e271d8690e695cf0",
+    "_parentId": "5e86f338e271d8690e695cef",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Mean Atmospheric Water Vapour",
+    "displayTitle": "Water Vapour",
+    "body": "",
+    "_id": "5e86f357e271d8690e695cf1",
+    "_parentId": "5e86f338e271d8690e695cef",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Mean Atmospheric Water Vapour",
+      "large": "course/en/assets/5740eb7bc988024bdc3ce457a71d7ce68410ba2b.png",
+      "small": "course/en/assets/5740eb7bc988024bdc3ce457a71d7ce68410ba2b.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Major Constituents of Dry Air, By Volume",
+    "displayTitle": "Major Constituents of Dry Air, By Volume",
+    "body": "<table align=\"center\" class=\"standard__table\" style=\"text-align:center; width:100%\" summary=\"The average molecular weight of dry air, which can be used to calculate densities or to convert between mole fraction and mass fraction, is about 28.946[13] or 28.96[14] g/mol. This is decreased when the air is humid.  The relative concentration of gases remains constant until about 10,000 m (33,000 ft).\"><tbody><tr><th colspan=\"2\">Gas</th><th colspan=\"2\"><strong>Volume</strong><sup>(A)</sup></th></tr><tr><th style=\"width:100px\">Name</th><th style=\"width:50px\">Formula</th><th style=\"width:100px\"><strong>in <a href=\"https://en.wikipedia.org/wiki/Parts-per_notation\" title=\"Parts-per notation\">ppmv</a></strong><sup>(B)</sup></th><th style=\"width:100px\">in <a href=\"https://en.wikipedia.org/wiki/Percentage\" title=\"Percentage\">%</a></th></tr><tr><td><a href=\"https://en.wikipedia.org/wiki/Nitrogen\" title=\"Nitrogen\">Nitrogen</a></td><td>N<sub>2</sub></td><td>780,840</td><td>78.084</td></tr><tr><td><a href=\"https://en.wikipedia.org/wiki/Oxygen\" title=\"Oxygen\">Oxygen</a></td><td>O<sub>2</sub></td><td>209,460</td><td>20.946</td></tr><tr><td><a href=\"https://en.wikipedia.org/wiki/Argon\" title=\"Argon\">Argon</a></td><td>Ar</td><td>9,340</td><td>0.9340</td></tr><tr><td><a href=\"https://en.wikipedia.org/wiki/Carbon_dioxide\" title=\"Carbon dioxide\">Carbon&nbsp;dioxide</a> (April, 2019)</td><td><span class=\"nowrap\"><span class=\"chemf nowrap\">CO<br /><span>2</span></span></span></td><td>413.32</td><td>0.041332</td></tr><tr><td><a href=\"https://en.wikipedia.org/wiki/Neon\" title=\"Neon\">Neon</a></td><td>Ne</td><td>18.18</td><td>0.001818</td></tr><tr><td><a href=\"https://en.wikipedia.org/wiki/Helium\" title=\"Helium\">Helium</a></td><td>He</td><td>5.24</td><td>0.000524</td></tr><tr><td><a href=\"https://en.wikipedia.org/wiki/Methane\" title=\"Methane\">Methane</a></td><td>CH<sub>4</sub></td><td>1.87</td><td>0.000187</td></tr><tr><td><a href=\"https://en.wikipedia.org/wiki/Krypton\" title=\"Krypton\">Krypton</a></td><td>Kr</td><td>1.14</td><td>0.000114</td></tr><tr><th colspan=\"4\">Not included in above dry atmosphere:</th></tr><tr><td><a href=\"https://en.wikipedia.org/wiki/Water_vapor\" title=\"Water vapor\">Water vapor</a><sup>(C)</sup></td><td>H<sub>2</sub>O</td><td>0–30,000<sup>(D)</sup></td><td>0–3%<sup>(D)</sup></td></tr><tr><th colspan=\"4\" style=\"text-align:left\"><strong>notes:</strong><p><sup>(A)</sup> <a href=\"https://en.wikipedia.org/wiki/Volume_fraction\" title=\"Volume fraction\">volume fraction</a> is equal to <a href=\"https://en.wikipedia.org/wiki/Mole_fraction\" title=\"Mole fraction\">mole fraction</a> for ideal gas only,<br />&nbsp;&nbsp;&nbsp;&nbsp;also see <a href=\"https://en.wikipedia.org/wiki/Volume_(thermodynamics)#Partial_volume\" title=\"Volume (thermodynamics)\">volume (thermodynamics)</a><br /><sup>(B)</sup> ppmv: <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Parts_per_million\" title=\"Parts per million\">parts per million</a> by volume<br /><sup>(C)</sup> Water vapor is about 0.25% <em>by mass</em> over full atmosphere<br /><sup>(D)</sup> Water vapor strongly varies locally</p></th></tr></tbody></table><p>The average <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Molecular_weight\" title=\"Molecular weight\">molecular weight</a> of dry air, which can be used to calculate densities or to convert between mole fraction and mass fraction, is about 28.946 or 28.96 g/mol. This is decreased when the air is humid.</p><p>The relative concentration of gases remains constant until about 10,000&nbsp;m (33,000&nbsp;ft).</p>",
+    "_id": "5e86f70ce271d8690e695cf7",
+    "_parentId": "5e86f59ce271d8690e695cf6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "short__image",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The Volume of the Main Constituents of the Earth's Atmosphere",
+    "displayTitle": "The Volume of the Main Constituents of the Earth's Atmosphere",
+    "body": "<p><span class=\"mw-mmv-title\">The volume fraction of the main constituents of the Earth's atmosphere as a function of height according to the MSIS-E-90 atmospheric model.</span></p>",
+    "_id": "5e8716cee271d8690e695cf9",
+    "_parentId": "5e8716b5e271d8690e695cf8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/fae5294f97f83b4a8bfea030fa596d6e8d03e0d9.png",
+      "small": "course/en/assets/fae5294f97f83b4a8bfea030fa596d6e8d03e0d9.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Stratification",
+    "displayTitle": "Stratification",
+    "body": "<p>In general, air pressure and density decrease with altitude in the atmosphere. However, temperature has a more complicated profile with altitude, and may remain relatively constant or even increase with altitude in some regions (see the <a href=\"https://en.wikipedia.org/wiki/Atmosphere_of_Earth#Temperature_and_speed_of_sound\" title=\"Atmosphere of Earth\">temperature</a> section, below). Because the general pattern of the temperature/altitude profile, or <a href=\"https://en.wikipedia.org/wiki/Lapse_rate\" title=\"Lapse rate\">lapse rate</a>, is constant and measurable by means of instrumented <a href=\"https://en.wikipedia.org/wiki/Weather_balloon\" title=\"Weather balloon\">balloon soundings</a>, the temperature behavior provides a useful metric to distinguish atmospheric layers. In this way, Earth's atmosphere can be divided (called atmospheric stratification) into five main layers. Excluding the exosphere, the atmosphere has four primary layers, which are the troposphere, stratosphere, mesosphere, and thermosphere. From highest to lowest, the five main layers are:</p><ul><li><strong>Exosphere:</strong> 700 to 10,000&nbsp;km (440 to 6,200 miles)</li><li><strong>Thermosphere:</strong> 80 to 700&nbsp;km (50 to 440 miles)</li><li><strong>Mesosphere:</strong> 50 to 80&nbsp;km (31 to 50 miles)</li><li><strong>Stratosphere:</strong> 12 to 50&nbsp;km (7 to 31 miles)</li><li><strong>Troposphere:</strong> 0 to 12&nbsp;km (0 to 7 miles)</li></ul>",
+    "_id": "5e871f54e271d8690e695d04",
+    "_parentId": "5e871f37e271d8690e695d03",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select the arrows below to find out more about stratification.",
+    "mobileInstruction": "Select the arrows below to find out more about stratification.",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "The Exosphere",
+        "_ariaLevel": 0,
+        "body": "<p>The exosphere is the outermost layer of Earth's atmosphere (i.e. the upper limit of the atmosphere). It extends from the <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Exobase\" title=\"Exobase\">exobase</a>, which is located at the top of the thermosphere at an altitude of about 700&nbsp;km above sea level, to about 10,000&nbsp;km (6,200&nbsp;mi; 33,000,000&nbsp;ft) where it merges into the <a href=\"https://en.wikipedia.org/wiki/Solar_wind\" title=\"Solar wind\">solar wind</a>.</p>",
+        "_graphic": {
+          "src": "course/en/assets/7e58a9d3d4f8ed9802e6fa0dfdcf40e2db9d44f8.png",
+          "alt": "the exosphere",
+          "attribution": ""
+        },
+        "strapline": "The Exosphere"
+      },
+      {
+        "title": "The Thermosphere",
+        "_ariaLevel": 0,
+        "body": "<p>The thermosphere is the second-highest layer of Earth's atmosphere. It extends from the mesopause (which separates it from the mesosphere) at an altitude of about 80&nbsp;km (50&nbsp;mi; 260,000&nbsp;ft) up to the <a href=\"https://en.wikipedia.org/wiki/Thermopause\" title=\"Thermopause\">thermopause</a> at an altitude range of 500–1000&nbsp;km (310–620&nbsp;mi; 1,600,000–3,300,000&nbsp;ft). The height of the thermopause varies considerably due to changes in solar activity. Because the thermopause lies at the lower boundary of the exosphere, it is also referred to as the <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Exobase\" title=\"Exobase\">exobase</a>. The lower part of the thermosphere, from 80 to 550 kilometres (50 to 342&nbsp;mi) above Earth's surface, contains the <a href=\"https://en.wikipedia.org/wiki/Ionosphere\" title=\"Ionosphere\">ionosphere</a>.</p>",
+        "_graphic": {
+          "src": "course/en/assets/e25d41acfc283f61a813572c0fd0e25addf4d5cf.png",
+          "alt": "The Thermosphere",
+          "attribution": ""
+        },
+        "strapline": "The Thermosphere"
+      },
+      {
+        "title": "The Mesosphere",
+        "_ariaLevel": 0,
+        "body": "<p>The mesosphere is the third highest layer of Earth's atmosphere, occupying the region above the stratosphere and below the thermosphere. It extends from the stratopause at an altitude of about 50&nbsp;km (31&nbsp;mi; 160,000&nbsp;ft) to the mesopause at 80–85&nbsp;km (50–53&nbsp;mi; 260,000–280,000&nbsp;ft) above sea level.</p>",
+        "_graphic": {
+          "src": "course/en/assets/a991ed7b5b108b8e017b5fe9e31397b7483dc054.png",
+          "alt": "The Mesosphere",
+          "attribution": ""
+        },
+        "strapline": "The Mesosphere"
+      },
+      {
+        "title": "The Stratosphere",
+        "_ariaLevel": 0,
+        "body": "<p>The stratosphere is the second-lowest layer of Earth's atmosphere. It lies above the troposphere and is separated from it by the <a href=\"https://en.wikipedia.org/wiki/Tropopause\" title=\"Tropopause\">tropopause</a>. This layer extends from the top of the troposphere at roughly 12&nbsp;km (7.5&nbsp;mi; 39,000&nbsp;ft) above Earth's surface to the <a href=\"https://en.wikipedia.org/wiki/Stratopause\" title=\"Stratopause\">stratopause</a> at an altitude of about 50 to 55&nbsp;km (31 to 34&nbsp;mi; 164,000 to 180,000&nbsp;ft).</p>",
+        "_graphic": {
+          "src": "course/en/assets/7f47788bec67c3b354fbbd09f1d749515e4cf922.png",
+          "alt": "The Stratosphere",
+          "attribution": ""
+        },
+        "strapline": "The Stratosphere"
+      },
+      {
+        "title": "The Troposphere",
+        "_ariaLevel": 0,
+        "body": "<p>The troposphere is the lowest layer of Earth's atmosphere. It extends from Earth's surface to an average height of about 12&nbsp;km (7.5&nbsp;mi; 39,000&nbsp;ft), although this <a href=\"https://en.wikipedia.org/wiki/Altitude\" title=\"Altitude\">altitude</a> varies from about 9&nbsp;km (5.6&nbsp;mi; 30,000&nbsp;ft) at the <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Geographic_pole\" title=\"Geographic pole\">geographic poles</a> to 17&nbsp;km (11&nbsp;mi; 56,000&nbsp;ft) at the <a href=\"https://en.wikipedia.org/wiki/Equator\" title=\"Equator\">Equator</a>,<sup><a href=\"https://en.wikipedia.org/wiki/Atmosphere_of_Earth#cite_note-tropopauseheight-18\">[18]</a></sup> with some variation due to weather. The troposphere is bounded above by the <a href=\"https://en.wikipedia.org/wiki/Tropopause\" title=\"Tropopause\">tropopause</a>, a boundary marked in most places by a <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Temperature_inversion\" title=\"Temperature inversion\">temperature inversion</a> (i.e. a layer of relatively warm air above a colder one), and in others by a zone which is <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Isotherm_(contour_line)\" title=\"Isotherm (contour line)\">isothermal</a> with height.</p>",
+        "_graphic": {
+          "src": "course/en/assets/b3935d07121bed7733347a9766f355329536413e.png",
+          "alt": "The Troposphere",
+          "attribution": ""
+        },
+        "strapline": "The Troposphere"
+      }
+    ]
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Other Layers",
+    "displayTitle": "Other Layers",
+    "body": "<p>Within the five principal layers above, that are largely determined by temperature, several secondary layers may be distinguished by other properties:</p>",
+    "_id": "5e8725abe271d8690e695d13",
+    "_parentId": "5e87259ee271d8690e695d12",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select the titles below to learn more.",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "The Ozone Layer",
+        "body": "<p>The <a href=\"https://en.wikipedia.org/wiki/Ozone_layer\" title=\"Ozone layer\">ozone layer</a> is contained within the stratosphere. In this layer <a href=\"https://en.wikipedia.org/wiki/Ozone\" title=\"Ozone\">ozone</a> concentrations are about 2 to 8 parts per million, which is much higher than in the lower atmosphere but still very small compared to the main components of the atmosphere. It is mainly located in the lower portion of the stratosphere from about 15–35&nbsp;km (9.3–21.7&nbsp;mi; 49,000–115,000&nbsp;ft), though the thickness varies seasonally and geographically. About 90% of the ozone in Earth's atmosphere is contained in the stratosphere.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "The Ionosphere",
+        "body": "<p>The <a href=\"https://en.wikipedia.org/wiki/Ionosphere\" title=\"Ionosphere\">ionosphere</a> is a region of the atmosphere that is ionized by solar radiation. It is responsible for <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Aurora_(astronomy)\" title=\"Aurora (astronomy)\">auroras</a>. During daytime hours, it stretches from 50 to 1,000&nbsp;km (31 to 621&nbsp;mi; 160,000 to 3,280,000&nbsp;ft) and includes the mesosphere, thermosphere, and parts of the exosphere. However, ionization in the mesosphere largely ceases during the night, so auroras are normally seen only in the thermosphere and lower exosphere. The ionosphere forms the inner edge of the <a href=\"https://en.wikipedia.org/wiki/Magnetosphere\" title=\"Magnetosphere\">magnetosphere</a>. It has practical importance because it influences, for example, radio propagation on Earth.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "The Homosphere and Heterosphere",
+        "body": "<p>The homosphere and heterosphere are defined by whether the atmospheric gases are well mixed. The surface-based homosphere includes the troposphere, stratosphere, mesosphere, and the lowest part of the thermosphere, where the chemical composition of the atmosphere does not depend on molecular weight because the gases are mixed by turbulence. This relatively homogeneous layer ends at the <em><a href=\"https://en.wikipedia.org/wiki/Turbopause\" title=\"Turbopause\">turbopause</a></em> found at about 100&nbsp;km (62&nbsp;mi; 330,000&nbsp;ft), the very <a href=\"https://en.wikipedia.org/wiki/K%C3%A1rm%C3%A1n_line\" title=\"Kármán line\">edge of space</a> itself as accepted by the <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Federation_Aeronautique_Internationale\" title=\"Federation Aeronautique Internationale\">FAI</a>, which places it about 20&nbsp;km (12&nbsp;mi; 66,000&nbsp;ft) above the mesopause.</p><p>Above this altitude lies the heterosphere, which includes the exosphere and most of the thermosphere. Here, the chemical composition varies with altitude. This is because the <a href=\"https://en.wikipedia.org/wiki/Mean_free_path\" title=\"Mean free path\">distance that particles can move without colliding with one another</a> is large compared with the size of motions that cause mixing. This allows the gases to stratify by molecular weight, with the heavier ones, such as oxygen and nitrogen, present only near the bottom of the heterosphere. The upper part of the heterosphere is composed almost completely of hydrogen, the lightest element.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "The Planetary Boundary Layer",
+        "body": "<p>The <a href=\"https://en.wikipedia.org/wiki/Planetary_boundary_layer\" title=\"Planetary boundary layer\">planetary boundary layer</a> is the part of the troposphere that is closest to Earth's surface and is directly affected by it, mainly through <a href=\"https://en.wikipedia.org/wiki/Turbulence\" title=\"Turbulence\">turbulent diffusion</a>. During the day the planetary boundary layer usually is well-mixed, whereas at night it becomes stably stratified with weak or intermittent mixing. The depth of the planetary boundary layer ranges from as little as about 100 metres (330&nbsp;ft) on clear, calm nights to 3,000&nbsp;m (9,800&nbsp;ft) or more during the afternoon in dry regions.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Pressure",
+    "displayTitle": "Pressure",
+    "body": "<p>The average atmospheric pressure at sea level is defined by the <a href=\"https://en.wikipedia.org/wiki/International_Standard_Atmosphere\" title=\"International Standard Atmosphere\">International Standard Atmosphere</a> as 101325 <a href=\"https://en.wikipedia.org/wiki/Pascal_(unit)\" title=\"Pascal (unit)\">pascals</a> (760.00&nbsp;<a href=\"https://en.wikipedia.org/wiki/Torr\" title=\"Torr\">Torr</a>; 14.6959&nbsp;<a href=\"https://en.wikipedia.org/wiki/Pounds_per_square_inch\" title=\"Pounds per square inch\">psi</a>; 760.00&nbsp;<a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Millimeter_of_mercury\" title=\"Millimeter of mercury\">mmHg</a>). This is sometimes referred to as a unit of <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Atmosphere_(unit)\" title=\"Atmosphere (unit)\">standard atmospheres (atm)</a>. Total atmospheric mass is 5.1480×10<sup>18</sup> kg (1.135×10<sup>19</sup> lb),<sup><a href=\"https://en.wikipedia.org/wiki/Atmosphere_of_Earth#cite_note-34\">[34]</a></sup> about 2.5% less than would be inferred from the average sea level pressure and Earth's area of 51007.2 megahectares, this portion being displaced by Earth's mountainous terrain. Atmospheric pressure is the total weight of the air above unit area at the point where the pressure is measured. Thus air pressure varies with location and <a href=\"https://en.wikipedia.org/wiki/Low-pressure_area\" title=\"Low-pressure area\">weather</a>.</p>",
+    "_id": "5e876c3fe271d8690e695d15",
+    "_parentId": "5e876b1ae271d8690e695d14",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Thickness",
+    "displayTitle": "Thickness",
+    "body": "<p>If the entire mass of the atmosphere had a uniform density equal to sea level density (about 1.2&nbsp;kg per m<sup>3</sup>) from sea level upwards, it would terminate abruptly at an altitude of 8.50&nbsp;km (27,900&nbsp;ft). It actually decreases exponentially with altitude, dropping by half every 5.6&nbsp;km (18,000&nbsp;ft) or by a factor of 1/<a href=\"https://en.wikipedia.org/wiki/E_(mathematical_constant)\" title=\"E (mathematical constant)\">e</a> every 7.64&nbsp;km (25,100&nbsp;ft), the average <a href=\"https://en.wikipedia.org/wiki/Scale_height\" title=\"Scale height\">scale height</a> of the atmosphere below 70&nbsp;km (43&nbsp;mi; 230,000&nbsp;ft). However, the atmosphere is more accurately modeled with a customized equation for each layer that takes gradients of temperature, molecular composition, solar radiation and gravity into account.</p>",
+    "_id": "5e876c42e271d8690e695d16",
+    "_parentId": "5e876b1ae271d8690e695d14",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "short__image",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Altitude, Air Density, Pressure, and the Speed of Sound",
+    "displayTitle": "Altitude, Air Density, Pressure, and the Speed of Sound",
+    "body": "<p>Comparison of the 1962 <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/US_Standard_Atmosphere\" title=\"US Standard Atmosphere\">US Standard Atmosphere</a> graph of <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Atmospheric_models#Geopotential_altitude\" title=\"Atmospheric models\">geometric altitude</a> against <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Air_density\" title=\"Air density\">air density</a>, <a href=\"https://en.wikipedia.org/wiki/Pressure\" title=\"Pressure\">pressure</a>, the <a href=\"https://en.wikipedia.org/wiki/Speed_of_sound\" title=\"Speed of sound\">speed of sound</a> and <a href=\"https://en.wikipedia.org/wiki/Temperature\" title=\"Temperature\">temperature</a> with approximate altitudes of various objects.</p>",
+    "_id": "5e876cdae271d8690e695d1a",
+    "_parentId": "5e876cd4e271d8690e695d19",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ee622a383cf3cc99865a9474d43d8607188be25d.png",
+      "small": "course/en/assets/ee622a383cf3cc99865a9474d43d8607188be25d.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Temperature and the Speed of Sound - Text",
+    "displayTitle": "",
+    "body": "<p>The division of the atmosphere into layers mostly by reference to temperature is discussed above. Temperature decreases with altitude starting at sea level, but variations in this trend begin above 11&nbsp;km, where the temperature stabilizes through a large vertical distance through the rest of the troposphere. In the <a href=\"https://en.wikipedia.org/wiki/Stratosphere\" title=\"Stratosphere\">stratosphere</a>, starting above about 20&nbsp;km, the temperature increases with height, due to heating within the ozone layer caused by capture of significant <a href=\"https://en.wikipedia.org/wiki/Ultraviolet\" title=\"Ultraviolet\">ultraviolet</a> radiation from the <a href=\"https://en.wikipedia.org/wiki/Sun\" title=\"Sun\">Sun</a> by the dioxygen and ozone gas in this region. Still another region of increasing temperature with altitude occurs at very high altitudes, in the aptly-named <a href=\"https://en.wikipedia.org/wiki/Thermosphere\" title=\"Thermosphere\">thermosphere</a> above 90&nbsp;km.</p><p>Because in an <a href=\"https://en.wikipedia.org/wiki/Ideal_gas\" title=\"Ideal gas\">ideal gas</a> of constant composition the <a href=\"https://en.wikipedia.org/wiki/Speed_of_sound\" title=\"Speed of sound\">speed of sound</a> depends only on temperature and not on the gas pressure or density, the speed of sound in the atmosphere with altitude takes on the form of the complicated temperature profile (see illustration to the right), and does not mirror altitudinal changes in density or pressure.</p>",
+    "_id": "5e877360e271d8690e695d25",
+    "_parentId": "5e87733fe271d8690e695d24",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Temperature and the Speed of Sound - Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5e87736de271d8690e695d26",
+    "_parentId": "5e87733fe271d8690e695d24",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/3f9b16ab9e14b14efb545061c86ee941d3d57c7e.png",
+      "small": "course/en/assets/3f9b16ab9e14b14efb545061c86ee941d3d57c7e.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Density and Mass - Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5e877458e271d8690e695d2c",
+    "_parentId": "5e877453e271d8690e695d2b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7e2ba1b7fa9a471b5cd1a4e027da533240e5c803.png",
+      "small": "course/en/assets/7e2ba1b7fa9a471b5cd1a4e027da533240e5c803.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Density and Mass - Text",
+    "displayTitle": "",
+    "body": "<p>The density of air at sea level is about 1.2&nbsp;kg/m<sup>3</sup> (1.2&nbsp;g/L, 0.0012 g/cm<sup>3</sup>). Density is not measured directly but is calculated from measurements of temperature, pressure and humidity using the equation of state for air (a form of the <a href=\"https://en.wikipedia.org/wiki/Ideal_gas_law\" title=\"Ideal gas law\">ideal gas law</a>). Atmospheric density decreases as the altitude increases. This variation can be approximately modeled using the <a href=\"https://en.wikipedia.org/wiki/Barometric_formula\" title=\"Barometric formula\">barometric formula</a>. More sophisticated models are used to predict orbital decay of satellites.</p><p>The average mass of the atmosphere is about 5 quadrillion (5<span>×</span>10<sup><span>15</span></sup>) <a href=\"https://en.wikipedia.org/wiki/Tonne\" title=\"Tonne\">tonnes</a> or 1/1,200,000 the mass of Earth. According to the American <a href=\"https://en.wikipedia.org/wiki/National_Center_for_Atmospheric_Research\" title=\"\">National Center for Atmospheric Research</a>, \"The total mean mass of the atmosphere is 5.1480<span>×</span>10<sup><span>18</span></sup>&nbsp;kg with an annual range due to water vapor of 1.2 or 1.5<span>×</span>10<sup><span>15</span></sup>&nbsp;kg, depending on whether surface pressure or water vapor data are used; somewhat smaller than the previous estimate. The mean mass of water vapor is estimated as 1.27<span>×</span>10<sup><span>16</span></sup>&nbsp;kg and the dry air mass as 5.1352 ±0.0003<span>×</span>10<sup><span>18</span></sup>&nbsp;kg.\"</p>",
+    "_id": "5e87745ee271d8690e695d2d",
+    "_parentId": "5e877453e271d8690e695d2b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Optical Properties",
+    "displayTitle": "Optical Properties",
+    "body": "<p>Solar <a href=\"https://en.wikipedia.org/wiki/Radiation\" title=\"Radiation\">radiation</a> (or sunlight) is the energy Earth receives from the <a href=\"https://en.wikipedia.org/wiki/Sun\" title=\"Sun\">Sun</a>. Earth also emits radiation back into space, but at longer wavelengths that we cannot see. Part of the incoming and emitted radiation is absorbed or reflected by the atmosphere. In May 2017, glints of light, seen as twinkling from an orbiting satellite a million miles away, were found to be <a href=\"https://en.wikipedia.org/wiki/Reflection_(physics)\" title=\"Reflection (physics)\">reflected light</a> from <a href=\"https://en.wikipedia.org/wiki/Ice_crystals\" title=\"Ice crystals\">ice crystals</a> in the atmosphere.<sup><a href=\"https://en.wikipedia.org/wiki/Atmosphere_of_Earth#cite_note-NYT-20170519-37\">[37]</a></sup><sup><a href=\"https://en.wikipedia.org/wiki/Atmosphere_of_Earth#cite_note-GRL-201760515-38\">[38]</a></sup></p>",
+    "_id": "5e87c963e271d8690e695d33",
+    "_parentId": "5e87c942e271d8690e695d32",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Scattering",
+        "body": "<p>When light passes through Earth's atmosphere, <a href=\"https://en.wikipedia.org/wiki/Photon\" title=\"Photon\">photons</a> interact with it through <em>scattering</em>. If the light does not interact with the atmosphere, it is called <em>direct radiation</em> and is what you see if you were to look directly at the Sun. <em>Indirect radiation</em> is light that has been scattered in the atmosphere. For example, on an <a href=\"https://en.wikipedia.org/wiki/Overcast\" title=\"Overcast\">overcast</a> day when you cannot see your shadow there is no direct radiation reaching you, it has all been scattered. As another example, due to a phenomenon called <a href=\"https://en.wikipedia.org/wiki/Rayleigh_scattering\" title=\"Rayleigh scattering\">Rayleigh scattering</a>, shorter (blue) wavelengths scatter more easily than longer (red) wavelengths. This is why the sky looks blue; you are seeing scattered blue light. This is also why sunsets are red. Because the Sun is close to the horizon, the Sun's rays pass through more atmosphere than normal to reach your eye. Much of the blue light has been scattered out, leaving the red light in a sunset.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Absorption",
+        "body": "<p>Different molecules absorb different wavelengths of radiation. For example, O<sub>2</sub> and O<sub>3</sub> absorb almost all wavelengths shorter than 300 <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Nanometer\" title=\"Nanometer\">nanometers</a>. Water (H<sub>2</sub>O) absorbs many wavelengths above 700&nbsp;nm. When a molecule absorbs a photon, it increases the energy of the molecule. This heats the atmosphere, but the atmosphere also cools by emitting radiation, as discussed below.</p><p>The combined <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Absorption_spectra\" title=\"Absorption spectra\">absorption spectra</a> of the gases in the atmosphere leave \"windows\" of low <a href=\"https://en.wikipedia.org/wiki/Opacity_(optics)\" title=\"Opacity (optics)\">opacity</a>, allowing the transmission of only certain bands of light. The <a href=\"https://en.wikipedia.org/wiki/Optical_window\" title=\"Optical window\">optical window</a> runs from around 300&nbsp;nm (<a href=\"https://en.wikipedia.org/wiki/Ultraviolet\" title=\"Ultraviolet\">ultraviolet</a>-C) up into the range humans can see, the <a href=\"https://en.wikipedia.org/wiki/Visible_spectrum\" title=\"Visible spectrum\">visible spectrum</a> (commonly called light), at roughly 400–700&nbsp;nm and continues to the <a href=\"https://en.wikipedia.org/wiki/Infrared\" title=\"Infrared\">infrared</a> to around 1100&nbsp;nm. There are also <a href=\"https://en.wikipedia.org/wiki/Infrared_window\" title=\"Infrared window\">infrared</a> and <a href=\"https://en.wikipedia.org/wiki/Radio_window\" title=\"Radio window\">radio windows</a> that transmit some infrared and <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Radio_waves\" title=\"Radio waves\">radio waves</a> at longer wavelengths. For example, the radio window runs from about one centimeter to about eleven-meter waves.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/598308065e1d3d626a942d789aa442c889b55193.png",
+          "attribution": ""
+        },
+        "_classes": "short__image"
+      },
+      {
+        "title": "Emission",
+        "body": "<p><em>Emission</em> is the opposite of absorption, it is when an object emits radiation. Objects tend to emit amounts and wavelengths of radiation depending on their \"<a href=\"https://en.wikipedia.org/wiki/Black_body\" title=\"Black body\">black body</a>\" emission curves, therefore hotter objects tend to emit more radiation, with shorter wavelengths. Colder objects emit less radiation, with longer wavelengths. For example, the Sun is approximately 6,000&nbsp;<a href=\"https://en.wikipedia.org/wiki/Kelvin\" title=\"Kelvin\">K</a> (5,730&nbsp;<a href=\"https://en.wikipedia.org/wiki/Celsius\" title=\"Celsius\">°C</a>; 10,340&nbsp;<a href=\"https://en.wikipedia.org/wiki/Fahrenheit\" title=\"Fahrenheit\">°F</a>), its radiation peaks near 500&nbsp;nm, and is visible to the human eye. Earth is approximately 290&nbsp;K (17&nbsp;°C; 62&nbsp;°F), so its radiation peaks near 10,000&nbsp;nm, and is much too long to be visible to humans.</p><p>Because of its temperature, the atmosphere emits infrared radiation. For example, on clear nights Earth's surface cools down faster than on cloudy nights. This is because clouds (H<sub>2</sub>O) are strong absorbers and emitters of infrared radiation. This is also why it becomes colder at night at higher elevations.</p><p>The <a href=\"https://en.wikipedia.org/wiki/Greenhouse_effect\" title=\"Greenhouse effect\">greenhouse effect</a> is directly related to this absorption and emission effect. Some gases in the atmosphere absorb and emit infrared radiation, but do not interact with sunlight in the visible spectrum. Common examples of these are <span class=\"nowrap\"><span class=\"chemf nowrap\">CO<br /><span>2</span></span></span> and H<sub>2</sub>O.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Refractive Index",
+        "body": "<p>The <a href=\"https://en.wikipedia.org/wiki/Refractive_index\" title=\"Refractive index\">refractive index</a> of air is close to, but just greater than 1. Systematic variations in refractive index can lead to the bending of light rays over long optical paths. One example is that, under some circumstances, observers onboard ships can see other vessels just over the <a href=\"https://en.wikipedia.org/wiki/Horizon\" title=\"Horizon\">horizon</a> because light is refracted in the same direction as the <a href=\"https://en.wikipedia.org/wiki/Curvature\" title=\"Curvature\">curvature</a> of Earth's surface.</p><p>The refractive index of air depends on temperature,<sup> </sup>giving rise to refraction effects when the temperature gradient is large. An example of such effects is the <a href=\"https://en.wikipedia.org/wiki/Mirage\" title=\"Mirage\">mirage</a>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/cc0fd0e48daaf8c97c4a71c283e91c6b578fd7f2.png",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Circulation - text",
+    "displayTitle": "",
+    "body": "<p><em>Atmospheric circulation</em> is the large-scale movement of air through the troposphere, and the means (with <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Ocean_circulation\" title=\"Ocean circulation\">ocean circulation</a>) by which heat is distributed around Earth. The large-scale structure of the atmospheric circulation varies from year to year, but the basic structure remains fairly constant because it is determined by Earth's rotation rate and the difference in solar radiation between the equator and poles.</p>",
+    "_id": "5e87d3b5e271d8690e695d3f",
+    "_parentId": "5e87d39de271d8690e695d3e",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "short__image",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Circulation - Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5e87d3bae271d8690e695d40",
+    "_parentId": "5e87d39de271d8690e695d3e",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/21682bef4f26d0fb1bce45cbcd98d3fb3a9b3f18.png",
+      "small": "course/en/assets/21682bef4f26d0fb1bce45cbcd98d3fb3a9b3f18.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The Four Stages of the Earth's Atmosphere",
+    "displayTitle": "The Four Stages of the Earth's Atmosphere",
+    "body": "<p>Throughout the course of the Earth's existence, it's atmosphere has changed depending on a multitude of factors.</p>",
+    "_id": "5e8dc29be271d8690e695d50",
+    "_parentId": "5e86eaece271d8690e695ce6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click on the titles below to find out more about the evolutionary stages of the Earth's atmosphere.",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "The Earliest Atmosphere",
+        "body": "<p>The <a href=\"https://en.wikipedia.org/wiki/Paleoatmosphere\" title=\"\">first atmosphere</a> consisted of gases in the <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Solar_nebula#Formation_of_planets\" title=\"Solar nebula\">solar nebula</a>, primarily <a href=\"https://en.wikipedia.org/wiki/Hydrogen\" title=\"Hydrogen\">hydrogen</a>. There were probably simple hydrides such as those now found in the <a href=\"https://en.wikipedia.org/wiki/Gas_giant\" title=\"Gas giant\">gas giants</a> (<a href=\"https://en.wikipedia.org/wiki/Jupiter\" title=\"Jupiter\">Jupiter</a> and <a href=\"https://en.wikipedia.org/wiki/Saturn\" title=\"Saturn\">Saturn</a>), notably water vapour, <a href=\"https://en.wikipedia.org/wiki/Methane\" title=\"Methane\">methane</a> and <a href=\"https://en.wikipedia.org/wiki/Ammonia\" title=\"Ammonia\">ammonia</a>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "The Second Atmosphere",
+        "body": "<p>Outgassing from <a href=\"https://en.wikipedia.org/wiki/Volcanism\" title=\"Volcanism\">volcanism</a>, supplemented by gases produced during the <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Late_heavy_bombardment\" title=\"Late heavy bombardment\">late heavy bombardment</a> of Earth by huge <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Asteroids\" title=\"Asteroids\">asteroids</a>, produced the next atmosphere, consisting largely of <a href=\"https://en.wikipedia.org/wiki/Nitrogen\" title=\"Nitrogen\">nitrogen</a> plus <a href=\"https://en.wikipedia.org/wiki/Carbon_dioxide\" title=\"Carbon dioxide\">carbon dioxide</a> and inert gases. A major part of carbon-dioxide emissions dissolved in water and reacted with metals such as calcium and magnesium during weathering of crustal rocks to form carbonates that were deposited as sediments. Water-related sediments have been found that date from as early as 3.8 billion years ago.</p><p>About 3.4 billion years ago, nitrogen formed the major part of the then stable \"second atmosphere\". The influence of life has to be taken into account rather soon in the history of the atmosphere, because hints of early life-forms appear as early as 3.5 billion years ago. How Earth at that time maintained a climate warm enough for liquid water and life, if the early Sun put out 30% lower solar radiance than today, is a puzzle known as the \"<a href=\"https://en.wikipedia.org/wiki/Faint_young_Sun_paradox\" title=\"Faint young Sun paradox\">faint young Sun paradox</a>\".</p><p>The geological record however shows a continuous relatively warm surface during the complete early <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Temperature_record\" title=\"Temperature record\">temperature record</a> of Earth – with the exception of one cold glacial phase about 2.4 billion years ago. In the late <a href=\"https://en.wikipedia.org/wiki/Archean\" title=\"Archean\">Archean</a> <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Eon_(geology)\" title=\"Eon (geology)\">Eon</a> an oxygen-containing atmosphere began to develop, apparently produced by photosynthesizing <a href=\"https://en.wikipedia.org/wiki/Cyanobacteria\" title=\"Cyanobacteria\">cyanobacteria</a> (see <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Great_Oxygenation_Event\" title=\"Great Oxygenation Event\">Great Oxygenation Event</a>), which have been found as <a href=\"https://en.wikipedia.org/wiki/Stromatolite\" title=\"Stromatolite\">stromatolite</a> fossils from 2.7 billion years ago. The early basic carbon isotopy (<a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Isotope_ratio\" title=\"Isotope ratio\">isotope ratio</a> proportions) strongly suggests conditions similar to the current, and that the fundamental features of the <a href=\"https://en.wikipedia.org/wiki/Carbon_cycle\" title=\"Carbon cycle\">carbon cycle</a> became established as early as 4 billion years ago.</p><p><a href=\"https://en.wikipedia.org/wiki/Proxy_(climate)#Lake_and_ocean_sediments\" title=\"Proxy (climate)\">Ancient sediments</a> in the <a href=\"https://en.wikipedia.org/wiki/Gabon\" title=\"Gabon\">Gabon</a> dating from between about 2.15 and 2.08 billion years ago provide a record of Earth's dynamic oxygenation evolution. These fluctuations in oxygenation were likely driven by the Lomagundi carbon isotope excursion.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "The Third Atmosphere",
+        "body": "<p>The constant re-arrangement of continents by <a href=\"https://en.wikipedia.org/wiki/Plate_tectonics\" title=\"Plate tectonics\">plate tectonics</a> influences the long-term evolution of the atmosphere by transferring carbon dioxide to and from large continental carbonate stores. Free oxygen did not exist in the atmosphere until about 2.4 billion years ago during the <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Great_Oxygenation_Event\" title=\"Great Oxygenation Event\">Great Oxygenation Event</a> and its appearance is indicated by the end of the <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Banded_iron_formations\" title=\"Banded iron formations\">banded iron formations</a>.</p><p>Before this time, any oxygen produced by photosynthesis was consumed by oxidation of reduced materials, notably iron. Molecules of free oxygen did not start to accumulate in the atmosphere until the rate of production of oxygen began to exceed the availability of reducing materials that removed oxygen. This point signifies a shift from a <a href=\"https://en.wikipedia.org/wiki/Redox\" title=\"Redox\">reducing</a> atmosphere to an <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Oxidizing\" title=\"Oxidizing\">oxidizing</a> atmosphere. O<sub>2</sub> showed major variations until reaching a steady state of more than 15% by the end of the Precambrian. The following time span from 541 million years ago to the present day is the <a href=\"https://en.wikipedia.org/wiki/Phanerozoic\" title=\"Phanerozoic\">Phanerozoic</a> Eon, during the earliest period of which, the <a href=\"https://en.wikipedia.org/wiki/Cambrian\" title=\"Cambrian\">Cambrian</a>, oxygen-requiring <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Metazoan\" title=\"Metazoan\">metazoan</a> life forms began to appear.</p><p>The amount of oxygen in the atmosphere has fluctuated over the last 600 million years, reaching a peak of about 30% around 280 million years ago, significantly higher than today's 21%. Two main processes govern changes in the atmosphere: Plants <a href=\"https://en.wikipedia.org/wiki/Photosynthesis\" title=\"Photosynthesis\">using carbon dioxide from the atmosphere</a> and releasing oxygen, and then plants using some oxygen at night by the process of <a href=\"https://en.wikipedia.org/wiki/Photorespiration\" title=\"Photorespiration\">photorespiration</a> with the remainder of the oxygen being used to breakdown adjacent organic material. Breakdown of <a href=\"https://en.wikipedia.org/wiki/Pyrite\" title=\"Pyrite\">pyrite</a> and <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Volcanic_eruption\" title=\"Volcanic eruption\">volcanic eruptions</a> release <a href=\"https://en.wikipedia.org/wiki/Sulfur\" title=\"Sulfur\">sulfur</a> into the atmosphere, which oxidizes and hence reduces the amount of oxygen in the atmosphere. However, volcanic eruptions also release carbon dioxide, which plants can convert to oxygen. The exact cause of the variation of the amount of oxygen in the atmosphere is not known. Periods with much oxygen in the atmosphere are associated with rapid development of animals. Today's atmosphere contains 21% oxygen, which is great enough for this rapid development of animals.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Air Pollution",
+        "body": "<p><em>Air pollution</em> is the introduction into the atmosphere of <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Chemical\" title=\"Chemical\">chemicals</a>, <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Atmospheric_particulate_matter\" title=\"Atmospheric particulate matter\">particulate matter</a> or <a href=\"https://en.wikipedia.org/wiki/Organic_matter\" title=\"Organic matter\">biological materials</a> that cause harm or discomfort to organisms. <a href=\"https://en.wikipedia.org/wiki/Stratosphere\" title=\"Stratosphere\">Stratospheric</a> <a href=\"https://en.wikipedia.org/wiki/Ozone_depletion\" title=\"Ozone depletion\">ozone depletion</a> is caused by air pollution, chiefly from <a class=\"mw-redirect\" href=\"https://en.wikipedia.org/wiki/Chlorofluorocarbons\" title=\"Chlorofluorocarbons\">chlorofluorocarbons</a> and other ozone-depleting substances.</p><p>The <a href=\"https://en.wikipedia.org/wiki/Scientific_consensus\" title=\"Scientific consensus\">scientific consensus</a> is that the <a href=\"https://en.wikipedia.org/wiki/Human_impact_on_the_environment\" title=\"Human impact on the environment\">anthropogenic</a> greenhouse gases currently accumulating in the atmosphere are the main cause of <a href=\"https://en.wikipedia.org/wiki/Global_warming\" title=\"\">global warming</a>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Video: Evolution of the Earth's Atmosphere",
+    "displayTitle": "Video: Evolution of the Earth's Atmosphere",
+    "body": "<p>A short description of the gasses in the Earth's atmosphere over time.</p><p>Video by <a href=\"https://www.youtube.com/channel/UC2m2cCChWLXtRaQtWuru67w\" target=\"_blank\">Danial Dannahower</a>.</p>",
+    "_id": "5e8dc4a1e271d8690e695d52",
+    "_parentId": "5e8dc48ae271d8690e695d51",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Watch the video below to learn more about the evolution of the Earth's atmosphere.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://www.youtube.com/watch?v=j0evKCTVh2I",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Oxygen Content of the Earth's Atmosphere",
+    "displayTitle": "Oxygen Content of the Earth's Atmosphere",
+    "body": "<p>The oxygen content of the Earth's atmosphere has changed drastically at various points throughout it's history.</p>",
+    "_id": "5e8dc69ae271d8690e695d54",
+    "_parentId": "5e8dc66ce271d8690e695d53",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select the pins below to find out more about the changes in oxygen levels of the Earth's atmosphere.",
+    "_setCompletionOn": "allItems",
+    "_graphic": {
+      "src": "course/en/assets/899116c8331347849220295bd83f1f79ec1b6b0a.png",
+      "alt": "",
+      "attribution": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "<p>Select the arrows below to find out more about the changes in oxygen levels of the Earth's atmosphere.</p>",
+    "_hidePagination": false,
+    "_canCycleThroughPagination": false,
+    "_useGraphicsAsPins": false,
+    "_isRound": false,
+    "_items": [
+      {
+        "title": "Low Perentage",
+        "_ariaLevel": 0,
+        "body": "<p>At this point in the past there was hardly any oxygen in the Earth's atmosphere.</p>",
+        "strapline": "Low O2",
+        "_graphic": {
+          "src": "course/en/assets/1e64b51fc744e02cea9624052289ac34d13cdc68.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 15,
+        "_top": 75
+      },
+      {
+        "title": "Increase in Oxygen",
+        "_ariaLevel": 0,
+        "body": "<p>At this point in the Earth's history the level of oxygen increased.</p>",
+        "strapline": "Increase in O2",
+        "_graphic": {
+          "src": "course/en/assets/1e64b51fc744e02cea9624052289ac34d13cdc68.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 45,
+        "_top": 60
+      },
+      {
+        "title": "Peak Oxygen",
+        "_ariaLevel": 0,
+        "body": "<p>At this point in the Earth's history the amount of oxygen peaked.</p>",
+        "strapline": "Peak Oxygen",
+        "_graphic": {
+          "src": "course/en/assets/1e64b51fc744e02cea9624052289ac34d13cdc68.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 68,
+        "_top": 18
+      },
+      {
+        "title": "Large Drop in Oxygen",
+        "_ariaLevel": 0,
+        "body": "<p>At this point there was a large drop in the global oxygen levels.</p>",
+        "strapline": "Large Drop in Oxygen",
+        "_graphic": {
+          "src": "course/en/assets/1e64b51fc744e02cea9624052289ac34d13cdc68.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 72,
+        "_top": 55
+      },
+      {
+        "title": "Another Increase in Global Oxygen Levels",
+        "_ariaLevel": 0,
+        "body": "<p>At this point there was another increase in the global level of oxygen.</p>",
+        "strapline": "Another Increase in Global Oxygen Levels",
+        "_graphic": {
+          "src": "course/en/assets/1e64b51fc744e02cea9624052289ac34d13cdc68.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 85,
+        "_top": 25
+      },
+      {
+        "title": "Current Oxygen Levels",
+        "_ariaLevel": 0,
+        "body": "<p>This is the current level of oxygen in our atmosphere.</p>",
+        "strapline": "Current Oxygen Levels",
+        "_graphic": {
+          "src": "course/en/assets/1e64b51fc744e02cea9624052289ac34d13cdc68.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 95,
+        "_top": 45
+      }
+    ]
+  }
+]

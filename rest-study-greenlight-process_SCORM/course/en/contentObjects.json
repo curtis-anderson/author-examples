@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Filling in the Forms",
+    "displayTitle": "Filling in the Forms",
+    "body": "<p>Welcome to the quick guide to filling in the forms to greenlight your surgery for&nbsp;<strong>REST</strong>.</p>",
+    "_classes": "",
+    "pageBody": "<p>This is a quick guide to filling in the forms to greenlight your surgery for the&nbsp;<strong>REST study.</strong></p>",
+    "instruction": "Scroll down to find more about filling in the forms.",
+    "linkText": "Start",
+    "duration": "15 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d78b1be2a18cb58227701a0",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/0a5069c1ce26aa0be48873cbeba830037118ee0d.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    }
+  },
+  {
+    "title": "REST Study Information",
+    "displayTitle": "REST Study Information",
+    "body": "<p>Select&nbsp;View&nbsp;below to see further information about REST.</p>",
+    "_classes": "",
+    "pageBody": "<p>An overview of the details of the REST Study can be found below.</p><p>If you have any questions, please use the contact details that can be found at the end of this page.</p>",
+    "instruction": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d78b1be2a18cb58227701a2",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/934a6eb6229b17166ccd7cf545545d73db79a231.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    }
+  }
+]
